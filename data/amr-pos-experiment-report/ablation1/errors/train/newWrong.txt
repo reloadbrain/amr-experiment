@@ -1,0 +1,944 @@
+------
+GOLD: IDENTITY
+GUESS: NONE
+CONTEXT: The jury in [that] case found Rakhimov had been painted as a major international criminal and had been defamed .
+	"Token string": that
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": DT
+SCORES:
+	Token string
+		IDENTITY: 0.025153683
+		NONE: 0.97483295
+		MANY: 0.009428688
+		VERB: 0.009529914
+		QUOTE: 0.009428688
+		SINGULAR: 0.009428688
+		LEMMA: 0.009369472
+------
+GOLD: IDENTITY
+GUESS: NONE
+CONTEXT: Will they try to prop Romney up with a strong VP to help make him more palatable - or will they bring [in] a new face ?
+	"Token string": in
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": RP
+SCORES:
+	Token string
+		IDENTITY: 0.024222782
+		NONE: 0.9518071
+		MANY: 0.00801726
+		VERB: 0.018687641
+		QUOTE: 0.010471507
+		SINGULAR: 0.00801726
+		LEMMA: 0.007967171
+------
+GOLD: IDENTITY
+GUESS: VERB
+CONTEXT: I do n't think Standtorum will tank , its going to be a close one till the very [end] , I am still rooting for a Romney/McDonnell ticket .
+	"Token string": end
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": NN
+SCORES:
+	Token string
+		IDENTITY: 0.33333355
+		NONE: 0.04670519
+		MANY: 0.04557803
+		VERB: 0.66666645
+		QUOTE: 0.04557803
+		SINGULAR: 0.04557803
+		LEMMA: 0.045270216
+------
+GOLD: IDENTITY
+GUESS: VERB
+CONTEXT: Expert states that cultivation of opium and drug [trafficking] are deeply entrenched in Afghanistan and will be impossible to eradicate .
+	"Token string": trafficking
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": NN
+SCORES:
+	Token string
+		IDENTITY: 0.14336509
+		NONE: 0.04293401
+		MANY: 0.04190428
+		VERB: 0.85666627
+		QUOTE: 0.04190428
+		SINGULAR: 0.04190428
+		LEMMA: 0.041623037
+------
+GOLD: IDENTITY
+GUESS: NONE
+CONTEXT: I heard from a friend at the consulate that the government took this matter very seriously and had promptly agreed to allocate funds to compensate the students who had used their own money instead [that] night .
+	"Token string": that
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": DT
+SCORES:
+	Token string
+		IDENTITY: 0.025153683
+		NONE: 0.97483295
+		MANY: 0.009428688
+		VERB: 0.009529914
+		QUOTE: 0.009428688
+		SINGULAR: 0.009428688
+		LEMMA: 0.009369472
+------
+GOLD: IDENTITY
+GUESS: SINGULAR
+CONTEXT: Newspaper seller Mohammad Farooq stated that Pervez Musharraf 's clamp-down on extremism had done little to limit the demand for banned [religious] extremist publications .
+	"Token string": religious
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": JJ
+SCORES:
+	Token string
+		IDENTITY: 0.1670298
+		NONE: 0.04670519
+		MANY: 0.04557803
+		VERB: 0.046104815
+		QUOTE: 0.04557803
+		SINGULAR: 0.8330321
+		LEMMA: 0.045270216
+------
+GOLD: IDENTITY
+GUESS: NONE
+CONTEXT: I actually had some other classmates [there] , and was going to call them .
+	"Token string": there
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": RB
+SCORES:
+	Token string
+		IDENTITY: 0.35714296
+		NONE: 0.57142854
+		MANY: 0.07305623
+		VERB: 0.02920573
+		QUOTE: 0.02888203
+		SINGULAR: 0.02888203
+		LEMMA: 0.028692808
+------
+GOLD: IDENTITY
+GUESS: VERB
+CONTEXT: Gilbert stated that the post-Soviet republics in central Asia fought terrorism by giving material and other necessary [help] to the international anti-terrorist coalition in the war against Saudi dissident Osama bin Laden and the Taliban regime .
+	"Token string": help
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": NN
+SCORES:
+	Token string
+		IDENTITY: 0.14336509
+		NONE: 0.04293401
+		MANY: 0.04190428
+		VERB: 0.85666627
+		QUOTE: 0.04190428
+		SINGULAR: 0.04190428
+		LEMMA: 0.041623037
+------
+GOLD: IDENTITY
+GUESS: NONE
+CONTEXT: Only one phone call I made [there] got through - that was calling home .
+	"Token string": there
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": EX
+SCORES:
+	Token string
+		IDENTITY: 0.35714296
+		NONE: 0.57142854
+		MANY: 0.07305623
+		VERB: 0.02920573
+		QUOTE: 0.02888203
+		SINGULAR: 0.02888203
+		LEMMA: 0.028692808
+------
+GOLD: IDENTITY
+GUESS: QUOTE
+CONTEXT: [Electric] companies are well prepared and are making all preparations required to be ready for any physical or cyberattack .
+	"Token string": Electric
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": NNP
+SCORES:
+	Token string
+		IDENTITY: 0.20024623
+		NONE: 0.05163073
+		MANY: 0.05037504
+		VERB: 0.050961822
+		QUOTE: 0.7997996
+		SINGULAR: 0.05037504
+		LEMMA: 0.050032232
+------
+GOLD: IDENTITY
+GUESS: NONE
+CONTEXT: Electric companies are [well] prepared and are making all preparations required to be ready for any physical or cyberattack .
+	"Token string": well
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": RB
+SCORES:
+	Token string
+		IDENTITY: 0.20024626
+		NONE: 0.40000013
+		MANY: 0.05037504
+		VERB: 0.050961822
+		QUOTE: 0.05037504
+		SINGULAR: 0.40000013
+		LEMMA: 0.050032232
+------
+GOLD: IDENTITY
+GUESS: NONE
+CONTEXT: Although current forecasting standards can not give us an accurate prediction of the exact time , place , and strength of an earthquake , there is considerable experience accumulated both in China and overseas in predicting to [within] the timeframe of a month , and the area of a province .
+	"Token string": within
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": IN
+SCORES:
+	Token string
+		IDENTITY: 0.250163
+		NONE: 0.749825
+		MANY: 0.056999195
+		VERB: 0.05766983
+		QUOTE: 0.056999195
+		SINGULAR: 0.056999195
+		LEMMA: 0.056607436
+------
+GOLD: IDENTITY
+GUESS: NONE
+CONTEXT: The government will rush [in] and show these people that government dependency is better than working and providing for themselves .
+	"Token string": in
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": IN
+SCORES:
+	Token string
+		IDENTITY: 0.024222782
+		NONE: 0.9518071
+		MANY: 0.00801726
+		VERB: 0.018687641
+		QUOTE: 0.010471507
+		SINGULAR: 0.00801726
+		LEMMA: 0.007967171
+------
+GOLD: IDENTITY
+GUESS: SINGULAR
+CONTEXT: [Narcotics] ; military
+	"Token string": Narcotics
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": NNP
+SCORES:
+	Token string
+		IDENTITY: 0.3334517
+		NONE: 0.06867035
+		MANY: 0.06696149
+		VERB: 0.06775991
+		QUOTE: 0.06696149
+		SINGULAR: 0.6665734
+		LEMMA: 0.066495165
+------
+GOLD: IDENTITY
+GUESS: VERB
+CONTEXT: Tajik government expert and head of the Tajik Drug Control Agency Vladimir Rakhmonov stated on 10 February 2002 that the U.S.-led [war] in Afghanistan had failed to stop drug trafficking across the border into Tajikistan .
+	"Token string": war
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": NN
+SCORES:
+	Token string
+		IDENTITY: 0.4285715
+		NONE: 0.04293401
+		MANY: 0.04190428
+		VERB: 0.57142854
+		QUOTE: 0.04190428
+		SINGULAR: 0.04190428
+		LEMMA: 0.041623037
+------
+GOLD: IDENTITY
+GUESS: NONE
+CONTEXT: He could call [it] the APOLOGIES ON BEER tour .
+	"Token string": it
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": PRP
+SCORES:
+	Token string
+		IDENTITY: 0.3030303
+		NONE: 0.4848485
+		MANY: 0.018410642
+		VERB: 0.12121229
+		QUOTE: 0.018410642
+		SINGULAR: 0.09090984
+		LEMMA: 0.018292597
+------
+GOLD: IDENTITY
+GUESS: NONE
+CONTEXT: In the past the CCP has done a lot of these sorts of things , but on this occasion not only did nothing , but in response to queries from the public pulled [out] some whopping lies , playing syntax games with words like `` geological disaster '' and `` earthquake disaster '' .
+	"Token string": out
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": RP
+SCORES:
+	Token string
+		IDENTITY: 0.33333343
+		NONE: 0.66666657
+		MANY: 0.031351265
+		VERB: 0.031704362
+		QUOTE: 0.031351265
+		SINGULAR: 0.031351265
+		LEMMA: 0.031144874
+------
+GOLD: IDENTITY
+GUESS: NONE
+CONTEXT: Increase the welfare rolls till the takers outweigh the givers . Only then can socialism creep [in] .
+	"Token string": in
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": IN
+SCORES:
+	Token string
+		IDENTITY: 0.024222782
+		NONE: 0.9518071
+		MANY: 0.00801726
+		VERB: 0.018687641
+		QUOTE: 0.010471507
+		SINGULAR: 0.00801726
+		LEMMA: 0.007967171
+------
+GOLD: IDENTITY
+GUESS: NONE
+CONTEXT: Everything Obama has done is straight from Alinsky 's Rules for Radicals . All of [it] .
+	"Token string": it
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": PRP
+SCORES:
+	Token string
+		IDENTITY: 0.3030303
+		NONE: 0.4848485
+		MANY: 0.018410642
+		VERB: 0.12121229
+		QUOTE: 0.018410642
+		SINGULAR: 0.09090984
+		LEMMA: 0.018292597
+------
+GOLD: IDENTITY
+GUESS: NONE
+CONTEXT: If some on the left want to remain ignorant and not read Alinky 's book to prove [it] , that is on them .
+	"Token string": it
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": PRP
+SCORES:
+	Token string
+		IDENTITY: 0.3030303
+		NONE: 0.4848485
+		MANY: 0.018410642
+		VERB: 0.12121229
+		QUOTE: 0.018410642
+		SINGULAR: 0.09090984
+		LEMMA: 0.018292597
+------
+GOLD: IDENTITY
+GUESS: NONE
+CONTEXT: If some on the left want to remain ignorant and not read Alinky 's book to prove it , that is [on] them .
+	"Token string": on
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": IN
+SCORES:
+	Token string
+		IDENTITY: 0.027679542
+		NONE: 0.9531045
+		MANY: 0.016048096
+		VERB: 0.027597725
+		QUOTE: 0.016048096
+		SINGULAR: 0.016048096
+		LEMMA: 0.01594573
+------
+GOLD: IDENTITY
+GUESS: NONE
+CONTEXT: I think that if our Earthquake Administration had been able beforehand to do a simulation of big earthquakes on this Longmenshan mountain earthquake belt , then on [that] day of May 12 , once the Earthquake Administration had measured the quake at a magnitude of 7.8 , we would have been able to broadly judge the extent of damage and destruction in the earthquake disaster zone .
+	"Token string": that
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": DT
+SCORES:
+	Token string
+		IDENTITY: 0.025153683
+		NONE: 0.97483295
+		MANY: 0.009428688
+		VERB: 0.009529914
+		QUOTE: 0.009428688
+		SINGULAR: 0.009428688
+		LEMMA: 0.009369472
+------
+GOLD: IDENTITY
+GUESS: NONE
+CONTEXT: I think Gingrich 's sole win in GA is enough to hang [it] up and go back to making millions in the private sector .
+	"Token string": it
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": PRP
+SCORES:
+	Token string
+		IDENTITY: 0.3030303
+		NONE: 0.4848485
+		MANY: 0.018410642
+		VERB: 0.12121229
+		QUOTE: 0.018410642
+		SINGULAR: 0.09090984
+		LEMMA: 0.018292597
+------
+GOLD: IDENTITY
+GUESS: QUOTE
+CONTEXT: The Kamchatenergo company disconnected a major control center of the Russian space forces located in Kamchatka early Saturday , the Russian Space Forces press [service] said .
+	"Token string": service
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": NN
+SCORES:
+	Token string
+		IDENTITY: 0.3334517
+		NONE: 0.06867035
+		MANY: 0.06696149
+		VERB: 0.06775991
+		QUOTE: 0.6665734
+		SINGULAR: 0.06696149
+		LEMMA: 0.066495165
+------
+GOLD: IDENTITY
+GUESS: NONE
+CONTEXT: I think the Good Doctor is too crazy to hang [it] up .
+	"Token string": it
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": PRP
+SCORES:
+	Token string
+		IDENTITY: 0.3030303
+		NONE: 0.4848485
+		MANY: 0.018410642
+		VERB: 0.12121229
+		QUOTE: 0.018410642
+		SINGULAR: 0.09090984
+		LEMMA: 0.018292597
+------
+GOLD: IDENTITY
+GUESS: NONE
+CONTEXT: Consequently , experts have predicted that the world has at least ten years within which to lower the volume of greenhouse gas emissions before [it] is too late to redeem the situation .
+	"Token string": it
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": PRP
+SCORES:
+	Token string
+		IDENTITY: 0.3030303
+		NONE: 0.4848485
+		MANY: 0.018410642
+		VERB: 0.12121229
+		QUOTE: 0.018410642
+		SINGULAR: 0.09090984
+		LEMMA: 0.018292597
+------
+GOLD: IDENTITY
+GUESS: NONE
+CONTEXT: The only one with any reason to will be Newt , but I do n't think that he [will] .
+	"Token string": will
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": MD
+SCORES:
+	Token string
+		IDENTITY: 0.07699495
+		NONE: 0.9230001
+		MANY: 0.020847382
+		VERB: 0.021077177
+		QUOTE: 0.020847382
+		SINGULAR: 0.020847382
+		LEMMA: 0.020713016
+------
+GOLD: IDENTITY
+GUESS: SINGULAR
+CONTEXT: Tajikistan 's 780-mile border with Afghanistan is patrolled by [approximately] 11000 Russian soldiers under a 1992 agreement between the Russian and Tajik Governments .
+	"Token string": approximately
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": RB
+SCORES:
+	Token string
+		IDENTITY: 0.3334517
+		NONE: 0.06867035
+		MANY: 0.06696149
+		VERB: 0.06775991
+		QUOTE: 0.06696149
+		SINGULAR: 0.6665734
+		LEMMA: 0.066495165
+------
+GOLD: IDENTITY
+GUESS: NONE
+CONTEXT: My heart goes [out] to the people in tornado alley and I have no problem with my tax dollars going to help the survivors rebuild their lives .
+	"Token string": out
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": RP
+SCORES:
+	Token string
+		IDENTITY: 0.33333343
+		NONE: 0.66666657
+		MANY: 0.031351265
+		VERB: 0.031704362
+		QUOTE: 0.031351265
+		SINGULAR: 0.031351265
+		LEMMA: 0.031144874
+------
+GOLD: IDENTITY
+GUESS: NONE
+CONTEXT: If you have no problem with your tax dollars going to aid them then you 'd have no problem donating to them of your own free [will] .
+	"Token string": will
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": NN
+SCORES:
+	Token string
+		IDENTITY: 0.07699495
+		NONE: 0.9230001
+		MANY: 0.020847382
+		VERB: 0.021077177
+		QUOTE: 0.020847382
+		SINGULAR: 0.020847382
+		LEMMA: 0.020713016
+------
+GOLD: IDENTITY
+GUESS: NONE
+CONTEXT: While it should have been a disaster relief command that takes overall leadership , [it] has suddenly come face-to-face with the broad base of disaster victims , directly dealing with them .
+	"Token string": it
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": PRP
+SCORES:
+	Token string
+		IDENTITY: 0.3030303
+		NONE: 0.4848485
+		MANY: 0.018410642
+		VERB: 0.12121229
+		QUOTE: 0.018410642
+		SINGULAR: 0.09090984
+		LEMMA: 0.018292597
+------
+GOLD: IDENTITY
+GUESS: VERB
+CONTEXT: The problem with this regime is [aid] is not distributed equally .
+	"Token string": aid
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": NN
+SCORES:
+	Token string
+		IDENTITY: 0.3334517
+		NONE: 0.06867035
+		MANY: 0.06696149
+		VERB: 0.6665585
+		QUOTE: 0.06696149
+		SINGULAR: 0.06696149
+		LEMMA: 0.066495165
+------
+GOLD: IDENTITY
+GUESS: NONE
+CONTEXT: A recent survey stated that [about] one million dogs are sold every year for food in South Korea and 92 percent of men aged 20 and above and 68 percent of adult women have tasted dog meat .
+	"Token string": about
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": IN
+SCORES:
+	Token string
+		IDENTITY: 0.14336509
+		NONE: 0.8566072
+		MANY: 0.04190428
+		VERB: 0.042385545
+		QUOTE: 0.04190428
+		SINGULAR: 0.04190428
+		LEMMA: 0.041623037
+------
+GOLD: IDENTITY
+GUESS: MANY
+CONTEXT: Banharn Silpa - Archa , prime [minister] of Thailand , who arrived at Myanmar this morning to pay a visit , and Than Shwe , chairman of the State Law and Order Restoration Council and prime minister of Myanmaran government , chaired the signing ceremony .
+	"Token string": minister
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": NN
+SCORES:
+	Token string
+		IDENTITY: 0.1670298
+		NONE: 0.04670519
+		MANY: 0.66666645
+		VERB: 0.16700523
+		QUOTE: 0.04557803
+		SINGULAR: 0.04557803
+		LEMMA: 0.045270216
+------
+GOLD: IDENTITY
+GUESS: LEMMA
+CONTEXT: A recent survey stated that about one million dogs are sold every year for food in South Korea and 92 percent of men aged 20 and above and 68 percent of adult [women] have tasted dog meat .
+	"Token string": women
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": NNS
+SCORES:
+	Token string
+		IDENTITY: 0.3334517
+		NONE: 0.06867035
+		MANY: 0.06696149
+		VERB: 0.06775991
+		QUOTE: 0.06696149
+		SINGULAR: 0.06696149
+		LEMMA: 0.6665815
+------
+GOLD: IDENTITY
+GUESS: MANY
+CONTEXT: On 5 January 2002 pan-Arab anti-terror academy Naif Arab Academy for Security Sciences reopened for the [first] time since the September 2001 terror attacks on the US .
+	"Token string": first
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": JJ
+SCORES:
+	Token string
+		IDENTITY: 0.33333355
+		NONE: 0.04670519
+		MANY: 0.66666645
+		VERB: 0.046104815
+		QUOTE: 0.04557803
+		SINGULAR: 0.04557803
+		LEMMA: 0.045270216
+------
+GOLD: IDENTITY
+GUESS: MANY
+CONTEXT: February 28 , 2002 Kabul officials announced that Afghan police are creating their [first] anti-narcotics units with the help of the United Nations due to concern that the country could again become a major producer of opium .
+	"Token string": first
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": JJ
+SCORES:
+	Token string
+		IDENTITY: 0.33333355
+		NONE: 0.04670519
+		MANY: 0.66666645
+		VERB: 0.046104815
+		QUOTE: 0.04557803
+		SINGULAR: 0.04557803
+		LEMMA: 0.045270216
+------
+GOLD: IDENTITY
+GUESS: NONE
+CONTEXT: A total unexpected loss of power [during] control of military equipment could be catastrophic .
+	"Token string": during
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": IN
+SCORES:
+	Token string
+		IDENTITY: 0.250163
+		NONE: 0.749825
+		MANY: 0.056999195
+		VERB: 0.05766983
+		QUOTE: 0.056999195
+		SINGULAR: 0.056999195
+		LEMMA: 0.056607436
+------
+GOLD: IDENTITY
+GUESS: SINGULAR
+CONTEXT: Perhaps when Libertarians figure out a way to differentiate between the [two] , I 'll vote for them .
+	"Token string": two
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": CD
+SCORES:
+	Token string
+		IDENTITY: 0.12567405
+		NONE: 0.2500004
+		MANY: 0.038977824
+		VERB: 0.039423168
+		QUOTE: 0.038977824
+		SINGULAR: 0.6249999
+		LEMMA: 0.038717575
+------
+GOLD: IDENTITY
+GUESS: VERB
+CONTEXT: Newspapers and magazines extolling the virtues of Islamic holy [war] in Kashmir continue to fill the newstands in Pakistan despite the Pakistani military Government 's attempt at a large scale containment of religious extremism .
+	"Token string": war
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": NN
+SCORES:
+	Token string
+		IDENTITY: 0.4285715
+		NONE: 0.04293401
+		MANY: 0.04190428
+		VERB: 0.57142854
+		QUOTE: 0.04190428
+		SINGULAR: 0.04190428
+		LEMMA: 0.041623037
+------
+GOLD: IDENTITY
+GUESS: VERB
+CONTEXT: But the rest of us are thinking about the people that do not have insurance and/or need help [right] now .
+	"Token string": right
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": RB
+SCORES:
+	Token string
+		IDENTITY: 0.3334517
+		NONE: 0.06867035
+		MANY: 0.06696149
+		VERB: 0.6665585
+		QUOTE: 0.06696149
+		SINGULAR: 0.06696149
+		LEMMA: 0.066495165
+------
+GOLD: IDENTITY
+GUESS: VERB
+CONTEXT: Qanooni outlined a three-stage [plan] of action --
+	"Token string": plan
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": NN
+SCORES:
+	Token string
+		IDENTITY: 0.20024626
+		NONE: 0.05163073
+		MANY: 0.20020036
+		VERB: 0.5999999
+		QUOTE: 0.05037504
+		SINGULAR: 0.05037504
+		LEMMA: 0.050032232
+------
+GOLD: IDENTITY
+GUESS: VERB
+CONTEXT: Qanooni outlined a three-stage plan of [action] --
+	"Token string": action
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": NN
+SCORES:
+	Token string
+		IDENTITY: 0.3334517
+		NONE: 0.06867035
+		MANY: 0.06696149
+		VERB: 0.6665585
+		QUOTE: 0.06696149
+		SINGULAR: 0.06696149
+		LEMMA: 0.066495165
+------
+GOLD: IDENTITY
+GUESS: NONE
+CONTEXT: Many people died , much property was destroyed , [it] was quite clearly a great disaster .
+	"Token string": it
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": PRP
+SCORES:
+	Token string
+		IDENTITY: 0.3030303
+		NONE: 0.4848485
+		MANY: 0.018410642
+		VERB: 0.12121229
+		QUOTE: 0.018410642
+		SINGULAR: 0.09090984
+		LEMMA: 0.018292597
+------
+GOLD: IDENTITY
+GUESS: NONE
+CONTEXT: No surprise [there] .
+	"Token string": there
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": RB
+SCORES:
+	Token string
+		IDENTITY: 0.35714296
+		NONE: 0.57142854
+		MANY: 0.07305623
+		VERB: 0.02920573
+		QUOTE: 0.02888203
+		SINGULAR: 0.02888203
+		LEMMA: 0.028692808
+------
+GOLD: IDENTITY
+GUESS: NONE
+CONTEXT: He had to win [there] to stay in , so ultimately this helps Mitt keep the vote split .
+	"Token string": there
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": RB
+SCORES:
+	Token string
+		IDENTITY: 0.35714296
+		NONE: 0.57142854
+		MANY: 0.07305623
+		VERB: 0.02920573
+		QUOTE: 0.02888203
+		SINGULAR: 0.02888203
+		LEMMA: 0.028692808
+------
+GOLD: IDENTITY
+GUESS: NONE
+CONTEXT: He had to win there to stay [in] , so ultimately this helps Mitt keep the vote split .
+	"Token string": in
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": IN
+SCORES:
+	Token string
+		IDENTITY: 0.024222782
+		NONE: 0.9518071
+		MANY: 0.00801726
+		VERB: 0.018687641
+		QUOTE: 0.010471507
+		SINGULAR: 0.00801726
+		LEMMA: 0.007967171
+------
+GOLD: IDENTITY
+GUESS: NONE
+CONTEXT: Vice President of Canadian electricity Association Francis Bradley stated that the company has a warning system for [both] physical and cyberattacks .
+	"Token string": both
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": DT
+SCORES:
+	Token string
+		IDENTITY: 0.3334517
+		NONE: 0.3334608
+		MANY: 0.06696149
+		VERB: 0.06775991
+		QUOTE: 0.06696149
+		SINGULAR: 0.33342654
+		LEMMA: 0.066495165
+------
+GOLD: IDENTITY
+GUESS: NONE
+CONTEXT: Best outcome of the night would have been Newt losing [there] .
+	"Token string": there
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": RB
+SCORES:
+	Token string
+		IDENTITY: 0.35714296
+		NONE: 0.57142854
+		MANY: 0.07305623
+		VERB: 0.02920573
+		QUOTE: 0.02888203
+		SINGULAR: 0.02888203
+		LEMMA: 0.028692808
+------
+GOLD: IDENTITY
+GUESS: NONE
+CONTEXT: If he were [out] of the race , Santorum might have had a chance .
+	"Token string": out
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": IN
+SCORES:
+	Token string
+		IDENTITY: 0.33333343
+		NONE: 0.66666657
+		MANY: 0.031351265
+		VERB: 0.031704362
+		QUOTE: 0.031351265
+		SINGULAR: 0.031351265
+		LEMMA: 0.031144874
+------
+GOLD: IDENTITY
+GUESS: MANY
+CONTEXT: Moreover , in [1994] , GE purchased more than 40 million US dollars in products in China , and planned to increase purchasing volume of Chinese products in the next two years .
+	"Token string": 1994
+	"Google 300-dim word embeddings": [all 0s]
+	"POS Tags": CD
+SCORES:
+	Token string
+		IDENTITY: 0.3334517
+		NONE: 0.06867035
+		MANY: 0.6665734
+		VERB: 0.06775991
+		QUOTE: 0.06696149
+		SINGULAR: 0.06696149
+		LEMMA: 0.066495165
+------
+GOLD: IDENTITY
+GUESS: NONE
+CONTEXT: South Korea 's defense ministry promised to conclude its first-stage appraisal [by] the end of March 2002 .
+	"Token string": by
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": IN
+SCORES:
+	Token string
+		IDENTITY: 0.027679542
+		NONE: 0.9531045
+		MANY: 0.016048096
+		VERB: 0.027597725
+		QUOTE: 0.016048096
+		SINGULAR: 0.016048096
+		LEMMA: 0.01594573
+------
+GOLD: IDENTITY
+GUESS: VERB
+CONTEXT: South Korea 's defense ministry promised to conclude its first-stage appraisal by the [end] of March 2002 .
+	"Token string": end
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": NN
+SCORES:
+	Token string
+		IDENTITY: 0.33333355
+		NONE: 0.04670519
+		MANY: 0.04557803
+		VERB: 0.66666645
+		QUOTE: 0.04557803
+		SINGULAR: 0.04557803
+		LEMMA: 0.045270216
+------
+GOLD: IDENTITY
+GUESS: VERB
+CONTEXT: Other groups linked to terrorism and included on the United States Terrorist Exclusion List are also publishing regular newspapers and journals containing rhetoric that is against Western countries and calls for [war] in the name of Islam .
+	"Token string": war
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": NN
+SCORES:
+	Token string
+		IDENTITY: 0.4285715
+		NONE: 0.04293401
+		MANY: 0.04190428
+		VERB: 0.57142854
+		QUOTE: 0.04190428
+		SINGULAR: 0.04190428
+		LEMMA: 0.041623037
+------
+GOLD: IDENTITY
+GUESS: QUOTE
+CONTEXT: Speculation grew in February 2002 when [Defense] Minister Kim Dong-Shin stressed that South Korea should consider security ties with the United States in the project .
+	"Token string": Defense
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": NNP
+SCORES:
+	Token string
+		IDENTITY: 0.1670298
+		NONE: 0.04670519
+		MANY: 0.04557803
+		VERB: 0.046104815
+		QUOTE: 0.8330321
+		SINGULAR: 0.04557803
+		LEMMA: 0.045270216
+------
+GOLD: IDENTITY
+GUESS: LEMMA
+CONTEXT: North Korea froze its suspected nuclear [weapons] program at Yongbyon in exchange for receiving two nuclear reactors producing less weapons-grade plutonium under a 1994 accord with the United States .
+	"Token string": weapons
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": NNS
+SCORES:
+	Token string
+		IDENTITY: 0.3334517
+		NONE: 0.06867035
+		MANY: 0.06696149
+		VERB: 0.06775991
+		QUOTE: 0.06696149
+		SINGULAR: 0.06696149
+		LEMMA: 0.6665815
+------
+GOLD: IDENTITY
+GUESS: NONE
+CONTEXT: I 'm in favor of feeding , clothing , and giving shelter to the poor . I 'm against all the gov ' t institutions that tax our brains [out] and who inefficiently attempt to provide some of these things .
+	"Token string": out
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": IN
+SCORES:
+	Token string
+		IDENTITY: 0.33333343
+		NONE: 0.66666657
+		MANY: 0.031351265
+		VERB: 0.031704362
+		QUOTE: 0.031351265
+		SINGULAR: 0.031351265
+		LEMMA: 0.031144874
+------
+GOLD: IDENTITY
+GUESS: NONE
+CONTEXT: Now am I just a genius who does n't know [it] , or is it really not THAT hard to understand such a simple concept ?
+	"Token string": it
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": PRP
+SCORES:
+	Token string
+		IDENTITY: 0.3030303
+		NONE: 0.4848485
+		MANY: 0.018410642
+		VERB: 0.12121229
+		QUOTE: 0.018410642
+		SINGULAR: 0.09090984
+		LEMMA: 0.018292597
+------
+GOLD: IDENTITY
+GUESS: NONE
+CONTEXT: They even lied , saying that they and Xinghui initially felt that signing a contract would rather make each other feel like strangers since they were both doing [it] for the sake of the motherland .
+	"Token string": it
+	"Google 300-dim word embeddings": [...]
+	"POS Tags": PRP
+SCORES:
+	Token string
+		IDENTITY: 0.3030303
+		NONE: 0.4848485
+		MANY: 0.018410642
+		VERB: 0.12121229
+		QUOTE: 0.018410642
+		SINGULAR: 0.09090984
+		LEMMA: 0.018292597

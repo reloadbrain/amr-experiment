@@ -1,0 +1,1856 @@
+------
+GOLD: NONE
+GUESS: NONE
+CONTEXT: After seeing [those] bus tours to AIG execs homes , promoted on ACORN 's website , I am wondering why those same people are n't outraged at this .
+	"Token string": those
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.48750263
+		NONE: 0.48750263
+		MANY: 0.48750263
+		VERB: 0.48750263
+		QUOTE: 0.48750263
+		SINGULAR: 0.51249737
+		LEMMA: 0.48750263
+	Google 300-dim word embeddings
+		IDENTITY: 0.022668533
+		NONE: 0.22815172
+		MANY: 2.8708293E-5
+		VERB: 1.413786E-4
+		QUOTE: 3.8419817E-5
+		SINGULAR: 1.5036359E-5
+		LEMMA: 8.13894E-6
+	NER Tags
+		IDENTITY: 1.502112E-22
+		NONE: 1.620336E-4
+		MANY: 1.3336149E-34
+		VERB: 1.0323854E-22
+		QUOTE: 4.027168E-36
+		SINGULAR: 8.503464E-35
+		LEMMA: 9.3978386E-35
+------
+GOLD: NONE
+GUESS: NONE
+CONTEXT: An Afghan television reported on January 16 , 2002 that Afghanistan 's interim administration has banned the cultivation of opium poppies in a [bid] to end drug trafficking .
+	"Token string": bid
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	Google 300-dim word embeddings
+		IDENTITY: 0.13689555
+		NONE: 0.25330254
+		MANY: 0.017689068
+		VERB: 0.021407992
+		QUOTE: 0.0127517665
+		SINGULAR: 0.0031188698
+		LEMMA: 0.002519541
+	NER Tags
+		IDENTITY: 1.502112E-22
+		NONE: 1.620336E-4
+		MANY: 1.3336149E-34
+		VERB: 1.0323854E-22
+		QUOTE: 4.027168E-36
+		SINGULAR: 8.503464E-35
+		LEMMA: 9.3978386E-35
+------
+GOLD: NONE
+GUESS: NONE
+CONTEXT: This will ultimately accelerate the speed of desertification in [sub] - Saharan African countries and other areas of the world .
+	"Token string": sub
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	Google 300-dim word embeddings
+		IDENTITY: 0.10654518
+		NONE: 0.46283063
+		MANY: 0.0020712486
+		VERB: 0.01445942
+		QUOTE: 0.009640192
+		SINGULAR: 0.0035686265
+		LEMMA: 0.0028577852
+	NER Tags
+		IDENTITY: 1.502112E-22
+		NONE: 1.620336E-4
+		MANY: 1.3336149E-34
+		VERB: 1.0323854E-22
+		QUOTE: 4.027168E-36
+		SINGULAR: 8.503464E-35
+		LEMMA: 9.3978386E-35
+------
+GOLD: NONE
+GUESS: NONE
+CONTEXT: This will ultimately accelerate the speed of desertification in sub - Saharan African [countries] and other areas of the world .
+	"Token string": countries
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.4750208
+		NONE: 0.48750263
+		MANY: 0.4750208
+		VERB: 0.4750208
+		QUOTE: 0.4750208
+		SINGULAR: 0.4750208
+		LEMMA: 0.51249737
+	Google 300-dim word embeddings
+		IDENTITY: 0.012472204
+		NONE: 0.017287292
+		MANY: 0.0048798914
+		VERB: 0.003599231
+		QUOTE: 0.048024844
+		SINGULAR: 8.4888766E-4
+		LEMMA: 0.0013937989
+	NER Tags
+		IDENTITY: 1.502112E-22
+		NONE: 1.620336E-4
+		MANY: 1.3336149E-34
+		VERB: 1.0323854E-22
+		QUOTE: 4.027168E-36
+		SINGULAR: 8.503464E-35
+		LEMMA: 9.3978386E-35
+------
+GOLD: NONE
+GUESS: NONE
+CONTEXT: The low - [cut] gold swimsuit with a low back weighs 500 grams , with a sales price of 10 million Japanese yen .
+	"Token string": cut
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.49687502
+		NONE: 0.49687502
+		MANY: 0.49687502
+		VERB: 0.50312495
+		QUOTE: 0.49687502
+		SINGULAR: 0.49687502
+		LEMMA: 0.49687502
+	Google 300-dim word embeddings
+		IDENTITY: 0.12540707
+		NONE: 0.18617809
+		MANY: 0.0036211812
+		VERB: 0.04061913
+		QUOTE: 0.003406764
+		SINGULAR: 0.0017750688
+		LEMMA: 0.001307858
+	NER Tags
+		IDENTITY: 1.502112E-22
+		NONE: 1.620336E-4
+		MANY: 1.3336149E-34
+		VERB: 1.0323854E-22
+		QUOTE: 4.027168E-36
+		SINGULAR: 8.503464E-35
+		LEMMA: 9.3978386E-35
+------
+GOLD: NONE
+GUESS: NONE
+CONTEXT: The low - cut gold swimsuit with a low back weighs 500 grams , with a sales [price] of 10 million Japanese yen .
+	"Token string": price
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.49687502
+		NONE: 0.49687502
+		MANY: 0.49687502
+		VERB: 0.50312495
+		QUOTE: 0.49687502
+		SINGULAR: 0.49687502
+		LEMMA: 0.49687502
+	Google 300-dim word embeddings
+		IDENTITY: 0.32666683
+		NONE: 0.1577491
+		MANY: 0.010003615
+		VERB: 0.019901207
+		QUOTE: 0.0053725196
+		SINGULAR: 0.0021805232
+		LEMMA: 0.002108334
+	NER Tags
+		IDENTITY: 1.502112E-22
+		NONE: 1.620336E-4
+		MANY: 1.3336149E-34
+		VERB: 1.0323854E-22
+		QUOTE: 4.027168E-36
+		SINGULAR: 8.503464E-35
+		LEMMA: 9.3978386E-35
+------
+GOLD: SINGULAR
+GUESS: SINGULAR
+CONTEXT: The low - cut gold swimsuit with a low back weighs 500 grams , with a sales price of [10] million Japanese yen .
+	"Token string": 10
+	"Google 300-dim word embeddings": [all 0s]
+	"NER Tags": MONEY
+SCORES:
+	Token string
+		IDENTITY: 0.8523861
+		NONE: 0.48896283
+		MANY: 0.12352817
+		VERB: 0.4836275
+		QUOTE: 0.47865003
+		SINGULAR: 0.42893684
+		LEMMA: 0.484473
+	Google 300-dim word embeddings
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	NER Tags
+		IDENTITY: 0.071966514
+		NONE: 0.51007706
+		MANY: 0.24120805
+		VERB: 0.34470078
+		QUOTE: 0.4191431
+		SINGULAR: 0.59007007
+		LEMMA: 0.35163644
+------
+GOLD: NONE
+GUESS: NONE
+CONTEXT: Saudi Arabia -LRB- [SA] -RRB-
+	"Token string": SA
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	Google 300-dim word embeddings
+		IDENTITY: 0.18221472
+		NONE: 0.21464357
+		MANY: 0.08089226
+		VERB: 0.11097919
+		QUOTE: 0.42582393
+		SINGULAR: 0.053653944
+		LEMMA: 0.05487803
+	NER Tags
+		IDENTITY: 1.502112E-22
+		NONE: 1.620336E-4
+		MANY: 1.3336149E-34
+		VERB: 1.0323854E-22
+		QUOTE: 4.027168E-36
+		SINGULAR: 8.503464E-35
+		LEMMA: 9.3978386E-35
+------
+GOLD: QUOTE
+GUESS: QUOTE
+CONTEXT: Naif Arab Academy for Security Sciences is run by an Arab [Interior] Ministers ' Council .
+	"Token string": Interior
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": ORGANIZATION
+SCORES:
+	Token string
+		IDENTITY: 0.50312495
+		NONE: 0.49687502
+		MANY: 0.49687502
+		VERB: 0.49687502
+		QUOTE: 0.49687502
+		SINGULAR: 0.49687502
+		LEMMA: 0.49687502
+	Google 300-dim word embeddings
+		IDENTITY: 0.07547302
+		NONE: 0.16098474
+		MANY: 0.06024063
+		VERB: 0.07202767
+		QUOTE: 0.26869255
+		SINGULAR: 0.035058428
+		LEMMA: 0.035239503
+	NER Tags
+		IDENTITY: 0.02952367
+		NONE: 0.070066825
+		MANY: 0.033049867
+		VERB: 0.041384585
+		QUOTE: 0.9882063
+		SINGULAR: 0.041874386
+		LEMMA: 0.041506357
+------
+GOLD: QUOTE
+GUESS: QUOTE
+CONTEXT: Naif Arab Academy for Security Sciences is run by an Arab Interior [Ministers] ' Council .
+	"Token string": Ministers
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": ORGANIZATION
+SCORES:
+	Token string
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	Google 300-dim word embeddings
+		IDENTITY: 0.059317052
+		NONE: 0.07486114
+		MANY: 0.030857744
+		VERB: 0.033896856
+		QUOTE: 0.11784401
+		SINGULAR: 0.011439571
+		LEMMA: 0.014723639
+	NER Tags
+		IDENTITY: 0.02952367
+		NONE: 0.070066825
+		MANY: 0.033049867
+		VERB: 0.041384585
+		QUOTE: 0.9882063
+		SINGULAR: 0.041874386
+		LEMMA: 0.041506357
+------
+GOLD: NONE
+GUESS: NONE
+CONTEXT: As [soon] as the earthquake occurred , grass-root organizations contacted their own people and average people also contacted their own systems or departments , in an interdependent manner .
+	"Token string": soon
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.50312495
+		NONE: 0.49687502
+		MANY: 0.49687502
+		VERB: 0.49687502
+		QUOTE: 0.49687502
+		SINGULAR: 0.49687502
+		LEMMA: 0.49687502
+	Google 300-dim word embeddings
+		IDENTITY: 0.20862944
+		NONE: 0.3200452
+		MANY: 0.0038850247
+		VERB: 0.0026958326
+		QUOTE: 8.711016E-4
+		SINGULAR: 3.7043725E-4
+		LEMMA: 2.2659526E-4
+	NER Tags
+		IDENTITY: 1.502112E-22
+		NONE: 1.620336E-4
+		MANY: 1.3336149E-34
+		VERB: 1.0323854E-22
+		QUOTE: 4.027168E-36
+		SINGULAR: 8.503464E-35
+		LEMMA: 9.3978386E-35
+------
+GOLD: NONE
+GUESS: NONE
+CONTEXT: As soon as the earthquake [occurred] , grass-root organizations contacted their own people and average people also contacted their own systems or departments , in an interdependent manner .
+	"Token string": occurred
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	Google 300-dim word embeddings
+		IDENTITY: 0.0823994
+		NONE: 0.41270655
+		MANY: 0.007605913
+		VERB: 0.0134804845
+		QUOTE: 0.0023580627
+		SINGULAR: 8.3662104E-4
+		LEMMA: 7.125825E-4
+	NER Tags
+		IDENTITY: 1.502112E-22
+		NONE: 1.620336E-4
+		MANY: 1.3336149E-34
+		VERB: 1.0323854E-22
+		QUOTE: 4.027168E-36
+		SINGULAR: 8.503464E-35
+		LEMMA: 9.3978386E-35
+------
+GOLD: NONE
+GUESS: NONE
+CONTEXT: A government source stated the visit by a [group] of IAEA safety experts is scheduled to last for a week beginning January 12 , 2002 .
+	"Token string": group
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.5093739
+		NONE: 0.49062625
+		MANY: 0.48438004
+		VERB: 0.48438004
+		QUOTE: 0.48438004
+		SINGULAR: 0.48438004
+		LEMMA: 0.48438004
+	Google 300-dim word embeddings
+		IDENTITY: 0.07308724
+		NONE: 0.22088543
+		MANY: 0.002985878
+		VERB: 0.0043061026
+		QUOTE: 0.0051631196
+		SINGULAR: 8.4954104E-4
+		LEMMA: 9.1484946E-4
+	NER Tags
+		IDENTITY: 1.502112E-22
+		NONE: 1.620336E-4
+		MANY: 1.3336149E-34
+		VERB: 1.0323854E-22
+		QUOTE: 4.027168E-36
+		SINGULAR: 8.503464E-35
+		LEMMA: 9.3978386E-35
+------
+GOLD: NONE
+GUESS: NONE
+CONTEXT: As soon as the earthquake occurred , grass-root organizations contacted their own people and average people also contacted their own systems or departments , in an interdependent [manner] .
+	"Token string": manner
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	Google 300-dim word embeddings
+		IDENTITY: 0.09564402
+		NONE: 0.26371834
+		MANY: 0.0043369345
+		VERB: 0.018777393
+		QUOTE: 0.0050614798
+		SINGULAR: 0.004079498
+		LEMMA: 0.003674015
+	NER Tags
+		IDENTITY: 1.502112E-22
+		NONE: 1.620336E-4
+		MANY: 1.3336149E-34
+		VERB: 1.0323854E-22
+		QUOTE: 4.027168E-36
+		SINGULAR: 8.503464E-35
+		LEMMA: 9.3978386E-35
+------
+GOLD: NONE
+GUESS: NONE
+CONTEXT: But it was not totally without benefits , and I believe that its greatest benefit was that it served to strip off the false benevolence that composed the outer skin of the elitists , the politicians , the capitalists , and exposed once [and] for all the rotten cannibalistic core within .
+	"Token string": and
+	"Google 300-dim word embeddings": [all 0s]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.7399822
+		NONE: 0.17689611
+		MANY: 0.08032417
+		VERB: 0.08035343
+		QUOTE: 0.10203162
+		SINGULAR: 0.080346756
+		LEMMA: 0.08035365
+	Google 300-dim word embeddings
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	NER Tags
+		IDENTITY: 1.502112E-22
+		NONE: 1.620336E-4
+		MANY: 1.3336149E-34
+		VERB: 1.0323854E-22
+		QUOTE: 4.027168E-36
+		SINGULAR: 8.503464E-35
+		LEMMA: 9.3978386E-35
+------
+GOLD: NONE
+GUESS: NONE
+CONTEXT: But it was not totally without benefits , and I believe that its greatest benefit was that it served to strip off the false benevolence that composed the outer skin of the elitists , the politicians , the capitalists , and exposed once and for [all] the rotten cannibalistic core within .
+	"Token string": all
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.53432095
+		NONE: 0.45946425
+		MANY: 0.45326185
+		VERB: 0.45326185
+		QUOTE: 0.45326185
+		SINGULAR: 0.45946416
+		LEMMA: 0.45326185
+	Google 300-dim word embeddings
+		IDENTITY: 0.16651286
+		NONE: 0.19066507
+		MANY: 6.648751E-6
+		VERB: 1.321386E-4
+		QUOTE: 1.4643012E-5
+		SINGULAR: 6.369018E-6
+		LEMMA: 3.2860623E-6
+	NER Tags
+		IDENTITY: 1.502112E-22
+		NONE: 1.620336E-4
+		MANY: 1.3336149E-34
+		VERB: 1.0323854E-22
+		QUOTE: 4.027168E-36
+		SINGULAR: 8.503464E-35
+		LEMMA: 9.3978386E-35
+------
+GOLD: NONE
+GUESS: NONE
+CONTEXT: As [long] as we stick to this issue , Xinghui surely has no way of winning the lawsuit if it goes to court .
+	"Token string": long
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.50312495
+		NONE: 0.49687502
+		MANY: 0.49687502
+		VERB: 0.49687502
+		QUOTE: 0.49687502
+		SINGULAR: 0.49687502
+		LEMMA: 0.49687502
+	Google 300-dim word embeddings
+		IDENTITY: 0.40087083
+		NONE: 0.33862877
+		MANY: 7.244708E-4
+		VERB: 0.002017197
+		QUOTE: 3.9214458E-4
+		SINGULAR: 2.0684567E-4
+		LEMMA: 1.253723E-4
+	NER Tags
+		IDENTITY: 1.502112E-22
+		NONE: 1.620336E-4
+		MANY: 1.3336149E-34
+		VERB: 1.0323854E-22
+		QUOTE: 4.027168E-36
+		SINGULAR: 8.503464E-35
+		LEMMA: 9.3978386E-35
+------
+GOLD: NONE
+GUESS: NONE
+CONTEXT: The debate was partly fueled by FIFA , football 's international governing [body] .
+	"Token string": body
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	Google 300-dim word embeddings
+		IDENTITY: 0.20654197
+		NONE: 0.23814797
+		MANY: 0.0046697436
+		VERB: 0.021887636
+		QUOTE: 0.020138675
+		SINGULAR: 0.0051382678
+		LEMMA: 0.0050605647
+	NER Tags
+		IDENTITY: 1.502112E-22
+		NONE: 1.620336E-4
+		MANY: 1.3336149E-34
+		VERB: 1.0323854E-22
+		QUOTE: 4.027168E-36
+		SINGULAR: 8.503464E-35
+		LEMMA: 9.3978386E-35
+------
+GOLD: QUOTE
+GUESS: QUOTE
+CONTEXT: The [anti-Japan] group stated that South Korean culture is under attack .
+	"Token string": anti-Japan
+	"Google 300-dim word embeddings": [all 0s]
+	"NER Tags": MISC
+SCORES:
+	Token string
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	Google 300-dim word embeddings
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	NER Tags
+		IDENTITY: 0.096214026
+		NONE: 0.13713065
+		MANY: 0.03933508
+		VERB: 0.090805456
+		QUOTE: 0.96107745
+		SINGULAR: 0.07361116
+		LEMMA: 0.09271431
+------
+GOLD: NONE
+GUESS: NONE
+CONTEXT: [Without] the guarantee from the contract signed with us , they would surely have been unable to deploy them !
+	"Token string": Without
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	Google 300-dim word embeddings
+		IDENTITY: 0.24270873
+		NONE: 0.23123501
+		MANY: 0.0019980283
+		VERB: 0.023806445
+		QUOTE: 0.0026880326
+		SINGULAR: 0.0015420921
+		LEMMA: 0.0013541952
+	NER Tags
+		IDENTITY: 1.502112E-22
+		NONE: 1.620336E-4
+		MANY: 1.3336149E-34
+		VERB: 1.0323854E-22
+		QUOTE: 4.027168E-36
+		SINGULAR: 8.503464E-35
+		LEMMA: 9.3978386E-35
+------
+GOLD: NONE
+GUESS: NONE
+CONTEXT: According to Taiwan 's '' Ministry of Economy '' statistics , the volume of trade [between] mainland and Taiwan last year was 20.9 billion US dollars .
+	"Token string": between
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.50312495
+		NONE: 0.49687964
+		MANY: 0.47190458
+		VERB: 0.47190458
+		QUOTE: 0.47190458
+		SINGULAR: 0.47190458
+		LEMMA: 0.47190458
+	Google 300-dim word embeddings
+		IDENTITY: 0.06786761
+		NONE: 0.67573255
+		MANY: 3.148036E-4
+		VERB: 0.0014465986
+		QUOTE: 4.0286046E-4
+		SINGULAR: 1.2662433E-4
+		LEMMA: 8.594073E-5
+	NER Tags
+		IDENTITY: 1.502112E-22
+		NONE: 1.620336E-4
+		MANY: 1.3336149E-34
+		VERB: 1.0323854E-22
+		QUOTE: 4.027168E-36
+		SINGULAR: 8.503464E-35
+		LEMMA: 9.3978386E-35
+------
+GOLD: NONE
+GUESS: NONE
+CONTEXT: According to Taiwan 's '' Ministry of Economy '' statistics , the volume of trade between mainland [and] Taiwan last year was 20.9 billion US dollars .
+	"Token string": and
+	"Google 300-dim word embeddings": [all 0s]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.7399822
+		NONE: 0.17689611
+		MANY: 0.08032417
+		VERB: 0.08035343
+		QUOTE: 0.10203162
+		SINGULAR: 0.080346756
+		LEMMA: 0.08035365
+	Google 300-dim word embeddings
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	NER Tags
+		IDENTITY: 1.502112E-22
+		NONE: 1.620336E-4
+		MANY: 1.3336149E-34
+		VERB: 1.0323854E-22
+		QUOTE: 4.027168E-36
+		SINGULAR: 8.503464E-35
+		LEMMA: 9.3978386E-35
+------
+GOLD: NONE
+GUESS: NONE
+CONTEXT: Head of the Korean Football Association [and] a FIFA vice president Chung Mong-Joon said FIFA should not intervene in the eating habits of a sovereign nation .
+	"Token string": and
+	"Google 300-dim word embeddings": [all 0s]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.7399822
+		NONE: 0.17689611
+		MANY: 0.08032417
+		VERB: 0.08035343
+		QUOTE: 0.10203162
+		SINGULAR: 0.080346756
+		LEMMA: 0.08035365
+	Google 300-dim word embeddings
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	NER Tags
+		IDENTITY: 1.502112E-22
+		NONE: 1.620336E-4
+		MANY: 1.3336149E-34
+		VERB: 1.0323854E-22
+		QUOTE: 4.027168E-36
+		SINGULAR: 8.503464E-35
+		LEMMA: 9.3978386E-35
+------
+GOLD: QUOTE
+GUESS: QUOTE
+CONTEXT: Head of the Korean Football Association and a FIFA vice president Chung [Mong-Joon] said FIFA should not intervene in the eating habits of a sovereign nation .
+	"Token string": Mong-Joon
+	"Google 300-dim word embeddings": [all 0s]
+	"NER Tags": PERSON
+SCORES:
+	Token string
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	Google 300-dim word embeddings
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	NER Tags
+		IDENTITY: 0.03952682
+		NONE: 0.14593318
+		MANY: 0.0431136
+		VERB: 0.09943696
+		QUOTE: 0.99506
+		SINGULAR: 0.079182886
+		LEMMA: 0.102869295
+------
+GOLD: NONE
+GUESS: NONE
+CONTEXT: A statement from the Russian Space Forces press services on 020126 called the action a direct violation of government decrees on defense facilities and stated that it could have led to the loss of a spacecraft costing hundreds of [millions] of rubles .
+	"Token string": millions
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.49687502
+		NONE: 0.49687502
+		MANY: 0.50312495
+		VERB: 0.49687502
+		QUOTE: 0.49687502
+		SINGULAR: 0.49687502
+		LEMMA: 0.49687502
+	Google 300-dim word embeddings
+		IDENTITY: 0.1541218
+		NONE: 0.096921146
+		MANY: 0.0043367986
+		VERB: 0.008139263
+		QUOTE: 0.006778111
+		SINGULAR: 0.0019484542
+		LEMMA: 0.0017516136
+	NER Tags
+		IDENTITY: 1.502112E-22
+		NONE: 1.620336E-4
+		MANY: 1.3336149E-34
+		VERB: 1.0323854E-22
+		QUOTE: 4.027168E-36
+		SINGULAR: 8.503464E-35
+		LEMMA: 9.3978386E-35
+------
+GOLD: NONE
+GUESS: NONE
+CONTEXT: The number of investment projects dropped by 444 as compared with last year , but the value of investments rose by [more] than 130 million US dollars as compared with last year .
+	"Token string": more
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.51249737
+		NONE: 0.4563613
+		MANY: 0.4563613
+		VERB: 0.48750263
+		QUOTE: 0.4563613
+		SINGULAR: 0.4563613
+		LEMMA: 0.4563613
+	Google 300-dim word embeddings
+		IDENTITY: 0.18691264
+		NONE: 0.13032497
+		MANY: 6.408026E-4
+		VERB: 0.0014916508
+		QUOTE: 3.6561512E-4
+		SINGULAR: 1.2343435E-4
+		LEMMA: 8.491243E-5
+	NER Tags
+		IDENTITY: 1.502112E-22
+		NONE: 1.620336E-4
+		MANY: 1.3336149E-34
+		VERB: 1.0323854E-22
+		QUOTE: 4.027168E-36
+		SINGULAR: 8.503464E-35
+		LEMMA: 9.3978386E-35
+------
+GOLD: NONE
+GUESS: NONE
+CONTEXT: He needs to conduct a beer summit [between] Palin and NBC .
+	"Token string": between
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.50312495
+		NONE: 0.49687964
+		MANY: 0.47190458
+		VERB: 0.47190458
+		QUOTE: 0.47190458
+		SINGULAR: 0.47190458
+		LEMMA: 0.47190458
+	Google 300-dim word embeddings
+		IDENTITY: 0.06786761
+		NONE: 0.67573255
+		MANY: 3.148036E-4
+		VERB: 0.0014465986
+		QUOTE: 4.0286046E-4
+		SINGULAR: 1.2662433E-4
+		LEMMA: 8.594073E-5
+	NER Tags
+		IDENTITY: 1.502112E-22
+		NONE: 1.620336E-4
+		MANY: 1.3336149E-34
+		VERB: 1.0323854E-22
+		QUOTE: 4.027168E-36
+		SINGULAR: 8.503464E-35
+		LEMMA: 9.3978386E-35
+------
+GOLD: NONE
+GUESS: NONE
+CONTEXT: He needs to conduct a beer summit between Palin [and] NBC .
+	"Token string": and
+	"Google 300-dim word embeddings": [all 0s]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.7399822
+		NONE: 0.17689611
+		MANY: 0.08032417
+		VERB: 0.08035343
+		QUOTE: 0.10203162
+		SINGULAR: 0.080346756
+		LEMMA: 0.08035365
+	Google 300-dim word embeddings
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	NER Tags
+		IDENTITY: 1.502112E-22
+		NONE: 1.620336E-4
+		MANY: 1.3336149E-34
+		VERB: 1.0323854E-22
+		QUOTE: 4.027168E-36
+		SINGULAR: 8.503464E-35
+		LEMMA: 9.3978386E-35
+------
+GOLD: NONE
+GUESS: NONE
+CONTEXT: The project management system of the Three Gorges [project] will introduce scientific management methods and advanced computer technology of the MAI Corp. of Canada , which uses the project database management system as the core component in its control and management of the whole process of designing , planning , contracting , financing , goods and materials , equipment , construction and installation of each subproject of the Three Gorges project .
+	"Token string": project
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.5312094
+		NONE: 0.46879062
+		MANY: 0.46879062
+		VERB: 0.46879062
+		QUOTE: 0.46879062
+		SINGULAR: 0.46879062
+		LEMMA: 0.46879062
+	Google 300-dim word embeddings
+		IDENTITY: 0.21618637
+		NONE: 0.18712783
+		MANY: 0.009032325
+		VERB: 0.03077272
+		QUOTE: 0.017099338
+		SINGULAR: 0.005651767
+		LEMMA: 0.005621745
+	NER Tags
+		IDENTITY: 1.502112E-22
+		NONE: 1.620336E-4
+		MANY: 1.3336149E-34
+		VERB: 1.0323854E-22
+		QUOTE: 4.027168E-36
+		SINGULAR: 8.503464E-35
+		LEMMA: 9.3978386E-35
+------
+GOLD: NONE
+GUESS: NONE
+CONTEXT: The severe actions against militants and radicals [came] as Pervez Musharraf banned 5 Islamic groups .
+	"Token string": came
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.49375027
+		NONE: 0.5000008
+		MANY: 0.49375027
+		VERB: 0.5
+		QUOTE: 0.49375027
+		SINGULAR: 0.49375027
+		LEMMA: 0.49375027
+	Google 300-dim word embeddings
+		IDENTITY: 0.08631358
+		NONE: 0.5998573
+		MANY: 9.889458E-4
+		VERB: 0.003204763
+		QUOTE: 3.008701E-4
+		SINGULAR: 1.1721248E-4
+		LEMMA: 7.765687E-5
+	NER Tags
+		IDENTITY: 1.502112E-22
+		NONE: 1.620336E-4
+		MANY: 1.3336149E-34
+		VERB: 1.0323854E-22
+		QUOTE: 4.027168E-36
+		SINGULAR: 8.503464E-35
+		LEMMA: 9.3978386E-35
+------
+GOLD: NONE
+GUESS: NONE
+CONTEXT: The project management system of the Three Gorges project will introduce scientific management methods and advanced computer technology of the MAI Corp. of Canada , which uses the project database management system as the [core] component in its control and management of the whole process of designing , planning , contracting , financing , goods and materials , equipment , construction and installation of each subproject of the Three Gorges project .
+	"Token string": core
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.50624967
+		NONE: 0.49375027
+		MANY: 0.49375027
+		VERB: 0.49375027
+		QUOTE: 0.49375027
+		SINGULAR: 0.49375027
+		LEMMA: 0.49375027
+	Google 300-dim word embeddings
+		IDENTITY: 0.16362184
+		NONE: 0.17484291
+		MANY: 0.0058242898
+		VERB: 0.017346941
+		QUOTE: 0.005108104
+		SINGULAR: 0.0030595877
+		LEMMA: 0.0025624402
+	NER Tags
+		IDENTITY: 1.502112E-22
+		NONE: 1.620336E-4
+		MANY: 1.3336149E-34
+		VERB: 1.0323854E-22
+		QUOTE: 4.027168E-36
+		SINGULAR: 8.503464E-35
+		LEMMA: 9.3978386E-35
+------
+GOLD: NONE
+GUESS: NONE
+CONTEXT: The project management system of the Three Gorges project will introduce scientific management methods and advanced computer technology of the MAI Corp. of Canada , which uses the project database management system as the core [component] in its control and management of the whole process of designing , planning , contracting , financing , goods and materials , equipment , construction and installation of each subproject of the Three Gorges project .
+	"Token string": component
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	Google 300-dim word embeddings
+		IDENTITY: 0.12464218
+		NONE: 0.17972219
+		MANY: 0.0033007057
+		VERB: 0.02163763
+		QUOTE: 0.0070370096
+		SINGULAR: 0.0025262919
+		LEMMA: 0.002719481
+	NER Tags
+		IDENTITY: 1.502112E-22
+		NONE: 1.620336E-4
+		MANY: 1.3336149E-34
+		VERB: 1.0323854E-22
+		QUOTE: 4.027168E-36
+		SINGULAR: 8.503464E-35
+		LEMMA: 9.3978386E-35
+------
+GOLD: NONE
+GUESS: NONE
+CONTEXT: The project management system of the Three Gorges project will introduce scientific management methods and advanced computer technology of the MAI Corp. of Canada , which uses the project database management system as the core component in its control and [management] of the whole process of designing , planning , contracting , financing , goods and materials , equipment , construction and installation of each subproject of the Three Gorges project .
+	"Token string": management
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.49687502
+		NONE: 0.49687502
+		MANY: 0.49687502
+		VERB: 0.50312495
+		QUOTE: 0.49687502
+		SINGULAR: 0.49687502
+		LEMMA: 0.49687502
+	Google 300-dim word embeddings
+		IDENTITY: 0.08210416
+		NONE: 0.20052804
+		MANY: 0.007149207
+		VERB: 0.020165807
+		QUOTE: 0.004718423
+		SINGULAR: 0.0018050452
+		LEMMA: 0.0017984881
+	NER Tags
+		IDENTITY: 1.502112E-22
+		NONE: 1.620336E-4
+		MANY: 1.3336149E-34
+		VERB: 1.0323854E-22
+		QUOTE: 4.027168E-36
+		SINGULAR: 8.503464E-35
+		LEMMA: 9.3978386E-35
+------
+GOLD: NONE
+GUESS: NONE
+CONTEXT: The Kamchatka command center plays a [role] in ISS operations .
+	"Token string": role
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.50624967
+		NONE: 0.49375027
+		MANY: 0.49375027
+		VERB: 0.49375027
+		QUOTE: 0.49375027
+		SINGULAR: 0.49375027
+		LEMMA: 0.49375027
+	Google 300-dim word embeddings
+		IDENTITY: 0.15803756
+		NONE: 0.3536841
+		MANY: 0.011007641
+		VERB: 0.039426707
+		QUOTE: 0.012015505
+		SINGULAR: 0.0055875
+		LEMMA: 0.0051125456
+	NER Tags
+		IDENTITY: 1.502112E-22
+		NONE: 1.620336E-4
+		MANY: 1.3336149E-34
+		VERB: 1.0323854E-22
+		QUOTE: 4.027168E-36
+		SINGULAR: 8.503464E-35
+		LEMMA: 9.3978386E-35
+------
+GOLD: NONE
+GUESS: NONE
+CONTEXT: Democrats [get] it , minorities get it , white republican jurisdictions do n't .
+	"Token string": get
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.47813898
+		NONE: 0.48438022
+		MANY: 0.47813898
+		VERB: 0.51561993
+		QUOTE: 0.47813898
+		SINGULAR: 0.47813898
+		LEMMA: 0.47813898
+	Google 300-dim word embeddings
+		IDENTITY: 0.19493634
+		NONE: 0.1795964
+		MANY: 8.471615E-5
+		VERB: 0.0024018714
+		QUOTE: 4.5881934E-5
+		SINGULAR: 4.007615E-5
+		LEMMA: 2.6705944E-5
+	NER Tags
+		IDENTITY: 1.502112E-22
+		NONE: 1.620336E-4
+		MANY: 1.3336149E-34
+		VERB: 1.0323854E-22
+		QUOTE: 4.027168E-36
+		SINGULAR: 8.503464E-35
+		LEMMA: 9.3978386E-35
+------
+GOLD: NONE
+GUESS: NONE
+CONTEXT: The Government [or] UES or the Ministry of Defense must resolve the issue .
+	"Token string": or
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.5405358
+		NONE: 0.45946416
+		MANY: 0.45946416
+		VERB: 0.45946416
+		QUOTE: 0.45946416
+		SINGULAR: 0.45946416
+		LEMMA: 0.45946416
+	Google 300-dim word embeddings
+		IDENTITY: 0.042412464
+		NONE: 0.32397285
+		MANY: 5.1432697E-5
+		VERB: 4.755836E-4
+		QUOTE: 7.114345E-5
+		SINGULAR: 3.4992107E-5
+		LEMMA: 2.1516524E-5
+	NER Tags
+		IDENTITY: 1.502112E-22
+		NONE: 1.620336E-4
+		MANY: 1.3336149E-34
+		VERB: 1.0323854E-22
+		QUOTE: 4.027168E-36
+		SINGULAR: 8.503464E-35
+		LEMMA: 9.3978386E-35
+------
+GOLD: QUOTE
+GUESS: QUOTE
+CONTEXT: The Government or UES or the Ministry [of] Defense must resolve the issue .
+	"Token string": of
+	"Google 300-dim word embeddings": [all 0s]
+	"NER Tags": ORGANIZATION
+SCORES:
+	Token string
+		IDENTITY: 0.0399687
+		NONE: 0.9149331
+		MANY: 0.023274872
+		VERB: 0.070265636
+		QUOTE: 0.010349478
+		SINGULAR: 0.053872354
+		LEMMA: 0.053961046
+	Google 300-dim word embeddings
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	NER Tags
+		IDENTITY: 0.02952367
+		NONE: 0.070066825
+		MANY: 0.033049867
+		VERB: 0.041384585
+		QUOTE: 0.9882063
+		SINGULAR: 0.041874386
+		LEMMA: 0.041506357
+------
+GOLD: NONE
+GUESS: NONE
+CONTEXT: The project management system of the Three Gorges project will introduce scientific management methods and advanced computer technology of the MAI Corp. of Canada , which uses the project database management system as the core component in its control and management of the whole process of designing , planning , contracting , financing , [goods] and materials , equipment , construction and installation of each subproject of the Three Gorges project .
+	"Token string": goods
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.49687502
+		NONE: 0.49687502
+		MANY: 0.49687502
+		VERB: 0.49687502
+		QUOTE: 0.49687502
+		SINGULAR: 0.50312495
+		LEMMA: 0.49687502
+	Google 300-dim word embeddings
+		IDENTITY: 0.087343715
+		NONE: 0.069567546
+		MANY: 0.0055202134
+		VERB: 0.016749455
+		QUOTE: 0.018689176
+		SINGULAR: 0.004034223
+		LEMMA: 0.0057654455
+	NER Tags
+		IDENTITY: 1.502112E-22
+		NONE: 1.620336E-4
+		MANY: 1.3336149E-34
+		VERB: 1.0323854E-22
+		QUOTE: 4.027168E-36
+		SINGULAR: 8.503464E-35
+		LEMMA: 9.3978386E-35
+------
+GOLD: NONE
+GUESS: NONE
+CONTEXT: The project management system of the Three Gorges project will introduce scientific management methods and advanced computer technology of the MAI Corp. of Canada , which uses the project database management system as the core component in its control and management of the whole process of designing , planning , contracting , financing , goods and [materials] , equipment , construction and installation of each subproject of the Three Gorges project .
+	"Token string": materials
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	Google 300-dim word embeddings
+		IDENTITY: 0.06778832
+		NONE: 0.10208517
+		MANY: 0.00574025
+		VERB: 0.015161093
+		QUOTE: 0.011788526
+		SINGULAR: 0.0034144612
+		LEMMA: 0.0052102553
+	NER Tags
+		IDENTITY: 1.502112E-22
+		NONE: 1.620336E-4
+		MANY: 1.3336149E-34
+		VERB: 1.0323854E-22
+		QUOTE: 4.027168E-36
+		SINGULAR: 8.503464E-35
+		LEMMA: 9.3978386E-35
+------
+GOLD: NONE
+GUESS: NONE
+CONTEXT: The project management system of the Three Gorges project will introduce scientific management methods and advanced computer technology of the MAI Corp. of Canada , which uses the project database management system as the core component in its control and management of the whole process of designing , planning , contracting , financing , goods and materials , [equipment] , construction and installation of each subproject of the Three Gorges project .
+	"Token string": equipment
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.5093739
+		NONE: 0.49062613
+		MANY: 0.49062613
+		VERB: 0.49062613
+		QUOTE: 0.49062613
+		SINGULAR: 0.49062613
+		LEMMA: 0.49062613
+	Google 300-dim word embeddings
+		IDENTITY: 0.13544936
+		NONE: 0.08324258
+		MANY: 0.0040449314
+		VERB: 0.015699139
+		QUOTE: 0.013196821
+		SINGULAR: 0.002329679
+		LEMMA: 0.0032032675
+	NER Tags
+		IDENTITY: 1.502112E-22
+		NONE: 1.620336E-4
+		MANY: 1.3336149E-34
+		VERB: 1.0323854E-22
+		QUOTE: 4.027168E-36
+		SINGULAR: 8.503464E-35
+		LEMMA: 9.3978386E-35
+------
+GOLD: NONE
+GUESS: NONE
+CONTEXT: The project management system of the Three Gorges project will introduce scientific management methods and advanced computer technology of the MAI Corp. of Canada , which uses the project database management system as the core component in its control and management of the whole process of designing , planning , contracting , financing , goods and materials , equipment , [construction] and installation of each subproject of the Three Gorges project .
+	"Token string": construction
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	Google 300-dim word embeddings
+		IDENTITY: 0.089832336
+		NONE: 0.17387447
+		MANY: 0.009473933
+		VERB: 0.014988367
+		QUOTE: 0.009283877
+		SINGULAR: 0.002056711
+		LEMMA: 0.002172082
+	NER Tags
+		IDENTITY: 1.502112E-22
+		NONE: 1.620336E-4
+		MANY: 1.3336149E-34
+		VERB: 1.0323854E-22
+		QUOTE: 4.027168E-36
+		SINGULAR: 8.503464E-35
+		LEMMA: 9.3978386E-35
+------
+GOLD: NONE
+GUESS: NONE
+CONTEXT: The project management system of the Three Gorges project will introduce scientific management methods and advanced computer technology of the MAI Corp. of Canada , which uses the project database management system as the core component in its control and management of the whole process of designing , planning , contracting , financing , goods and materials , equipment , construction [and] installation of each subproject of the Three Gorges project .
+	"Token string": and
+	"Google 300-dim word embeddings": [all 0s]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.7399822
+		NONE: 0.17689611
+		MANY: 0.08032417
+		VERB: 0.08035343
+		QUOTE: 0.10203162
+		SINGULAR: 0.080346756
+		LEMMA: 0.08035365
+	Google 300-dim word embeddings
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	NER Tags
+		IDENTITY: 1.502112E-22
+		NONE: 1.620336E-4
+		MANY: 1.3336149E-34
+		VERB: 1.0323854E-22
+		QUOTE: 4.027168E-36
+		SINGULAR: 8.503464E-35
+		LEMMA: 9.3978386E-35
+------
+GOLD: NONE
+GUESS: NONE
+CONTEXT: The project management system of the Three Gorges project will introduce scientific management methods and advanced computer technology of the MAI Corp. of Canada , which uses the project database management system as the core component in its control and management of the whole process of designing , planning , contracting , financing , goods and materials , equipment , construction and [installation] of each subproject of the Three Gorges project .
+	"Token string": installation
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	Google 300-dim word embeddings
+		IDENTITY: 0.14676137
+		NONE: 0.20726326
+		MANY: 0.01836114
+		VERB: 0.07744636
+		QUOTE: 0.03960634
+		SINGULAR: 0.016423926
+		LEMMA: 0.016495004
+	NER Tags
+		IDENTITY: 1.502112E-22
+		NONE: 1.620336E-4
+		MANY: 1.3336149E-34
+		VERB: 1.0323854E-22
+		QUOTE: 4.027168E-36
+		SINGULAR: 8.503464E-35
+		LEMMA: 9.3978386E-35
+------
+GOLD: NONE
+GUESS: NONE
+CONTEXT: The project management system of the Three Gorges project will introduce scientific management methods and advanced computer technology of the MAI Corp. of Canada , which uses the project database management system as the core component in its control and management of the whole process of designing , planning , contracting , financing , goods and materials , equipment , construction and installation of each subproject of the [Three] Gorges project .
+	"Token string": Three
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": NUMBER
+SCORES:
+	Token string
+		IDENTITY: 0.20250744
+		NONE: 0.4888024
+		MANY: 0.48099893
+		VERB: 0.48124513
+		QUOTE: 0.6403923
+		SINGULAR: 0.4812242
+		LEMMA: 0.48125815
+	Google 300-dim word embeddings
+		IDENTITY: 0.2351112
+		NONE: 0.32866406
+		MANY: 0.03134438
+		VERB: 0.021190047
+		QUOTE: 0.037754554
+		SINGULAR: 0.0071347794
+		LEMMA: 0.004880225
+	NER Tags
+		IDENTITY: 0.48090684
+		NONE: 0.21724372
+		MANY: 0.1717715
+		VERB: 0.07731505
+		QUOTE: 0.043048427
+		SINGULAR: 0.3033474
+		LEMMA: 0.071678676
+------
+GOLD: NONE
+GUESS: NONE
+CONTEXT: The project management system of the Three Gorges project will introduce scientific management methods and advanced computer technology of the MAI Corp. of Canada , which uses the project database management system as the core component in its control and management of the whole process of designing , planning , contracting , financing , goods and materials , equipment , construction and installation of each subproject of the Three [Gorges] project .
+	"Token string": Gorges
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.47910187
+		NONE: 0.48749205
+		MANY: 0.4811797
+		VERB: 0.48124054
+		QUOTE: 0.51512957
+		SINGULAR: 0.4812261
+		LEMMA: 0.4812494
+	Google 300-dim word embeddings
+		IDENTITY: 0.4131474
+		NONE: 0.18301316
+		MANY: 0.08158149
+		VERB: 0.09752465
+		QUOTE: 0.31972742
+		SINGULAR: 0.08208557
+		LEMMA: 0.07363707
+	NER Tags
+		IDENTITY: 1.502112E-22
+		NONE: 1.620336E-4
+		MANY: 1.3336149E-34
+		VERB: 1.0323854E-22
+		QUOTE: 4.027168E-36
+		SINGULAR: 8.503464E-35
+		LEMMA: 9.3978386E-35
+------
+GOLD: QUOTE
+GUESS: QUOTE
+CONTEXT: Qari Mohammad Zafar stated that himself and other people have been told by our elders to read [pro-Jihad] newspapers and magazines .
+	"Token string": pro-Jihad
+	"Google 300-dim word embeddings": [all 0s]
+	"NER Tags": MISC
+SCORES:
+	Token string
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	Google 300-dim word embeddings
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	NER Tags
+		IDENTITY: 0.096214026
+		NONE: 0.13713065
+		MANY: 0.03933508
+		VERB: 0.090805456
+		QUOTE: 0.96107745
+		SINGULAR: 0.07361116
+		LEMMA: 0.09271431
+------
+GOLD: NONE
+GUESS: NONE
+CONTEXT: How does one survive until the insurance -LRB- hopefully by a respectable [company] -RRB- claim comes through ?
+	"Token string": company
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.50624967
+		NONE: 0.49375063
+		MANY: 0.46879062
+		VERB: 0.46879062
+		QUOTE: 0.46879062
+		SINGULAR: 0.46879062
+		LEMMA: 0.46879062
+	Google 300-dim word embeddings
+		IDENTITY: 0.2110503
+		NONE: 0.09483944
+		MANY: 0.014871605
+		VERB: 0.015084525
+		QUOTE: 0.012518786
+		SINGULAR: 0.0032170727
+		LEMMA: 0.0035063315
+	NER Tags
+		IDENTITY: 1.502112E-22
+		NONE: 1.620336E-4
+		MANY: 1.3336149E-34
+		VERB: 1.0323854E-22
+		QUOTE: 4.027168E-36
+		SINGULAR: 8.503464E-35
+		LEMMA: 9.3978386E-35
+------
+GOLD: NONE
+GUESS: NONE
+CONTEXT: Australia -LRB- [AU] -RRB-
+	"Token string": AU
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	Google 300-dim word embeddings
+		IDENTITY: 0.25201768
+		NONE: 0.23552538
+		MANY: 0.032358743
+		VERB: 0.03991578
+		QUOTE: 0.15383847
+		SINGULAR: 0.018803876
+		LEMMA: 0.017041627
+	NER Tags
+		IDENTITY: 1.502112E-22
+		NONE: 1.620336E-4
+		MANY: 1.3336149E-34
+		VERB: 1.0323854E-22
+		QUOTE: 4.027168E-36
+		SINGULAR: 8.503464E-35
+		LEMMA: 9.3978386E-35
+------
+GOLD: NONE
+GUESS: NONE
+CONTEXT: Myanmaran officials revealed that the total trade volume [between] Myanmar and Thailand exceeded 300 million US dollars in 1995 .
+	"Token string": between
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.50312495
+		NONE: 0.49687964
+		MANY: 0.47190458
+		VERB: 0.47190458
+		QUOTE: 0.47190458
+		SINGULAR: 0.47190458
+		LEMMA: 0.47190458
+	Google 300-dim word embeddings
+		IDENTITY: 0.06786761
+		NONE: 0.67573255
+		MANY: 3.148036E-4
+		VERB: 0.0014465986
+		QUOTE: 4.0286046E-4
+		SINGULAR: 1.2662433E-4
+		LEMMA: 8.594073E-5
+	NER Tags
+		IDENTITY: 1.502112E-22
+		NONE: 1.620336E-4
+		MANY: 1.3336149E-34
+		VERB: 1.0323854E-22
+		QUOTE: 4.027168E-36
+		SINGULAR: 8.503464E-35
+		LEMMA: 9.3978386E-35
+------
+GOLD: NONE
+GUESS: NONE
+CONTEXT: Myanmaran officials revealed that the total trade volume between Myanmar [and] Thailand exceeded 300 million US dollars in 1995 .
+	"Token string": and
+	"Google 300-dim word embeddings": [all 0s]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.7399822
+		NONE: 0.17689611
+		MANY: 0.08032417
+		VERB: 0.08035343
+		QUOTE: 0.10203162
+		SINGULAR: 0.080346756
+		LEMMA: 0.08035365
+	Google 300-dim word embeddings
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	NER Tags
+		IDENTITY: 1.502112E-22
+		NONE: 1.620336E-4
+		MANY: 1.3336149E-34
+		VERB: 1.0323854E-22
+		QUOTE: 4.027168E-36
+		SINGULAR: 8.503464E-35
+		LEMMA: 9.3978386E-35
+------
+GOLD: QUOTE
+GUESS: QUOTE
+CONTEXT: Rakhimov was also said to have bribed members of the [International] Amateur Boxing Federation in the vote for the Federation Presidency .
+	"Token string": International
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": ORGANIZATION
+SCORES:
+	Token string
+		IDENTITY: 0.51555246
+		NONE: 0.46567357
+		MANY: 0.46567336
+		VERB: 0.46567872
+		QUOTE: 0.49393025
+		SINGULAR: 0.46567887
+		LEMMA: 0.465679
+	Google 300-dim word embeddings
+		IDENTITY: 0.09588322
+		NONE: 0.1659215
+		MANY: 0.034997478
+		VERB: 0.014912682
+		QUOTE: 0.3185546
+		SINGULAR: 0.005998365
+		LEMMA: 0.005957137
+	NER Tags
+		IDENTITY: 0.02952367
+		NONE: 0.070066825
+		MANY: 0.033049867
+		VERB: 0.041384585
+		QUOTE: 0.9882063
+		SINGULAR: 0.041874386
+		LEMMA: 0.041506357
+------
+GOLD: NONE
+GUESS: NONE
+CONTEXT: Apart from setting [up] joint venture enterprises , GE also invested more than 1 billion US dollars in China by means of airplane and container leasing .
+	"Token string": up
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.5
+		NONE: 0.5000012
+		MANY: 0.48750263
+		VERB: 0.48750263
+		QUOTE: 0.48750263
+		SINGULAR: 0.48750263
+		LEMMA: 0.48750263
+	Google 300-dim word embeddings
+		IDENTITY: 0.1672645
+		NONE: 0.51124173
+		MANY: 8.63491E-4
+		VERB: 0.0013072466
+		QUOTE: 4.12816E-4
+		SINGULAR: 1.6289213E-4
+		LEMMA: 1.14777526E-4
+	NER Tags
+		IDENTITY: 1.502112E-22
+		NONE: 1.620336E-4
+		MANY: 1.3336149E-34
+		VERB: 1.0323854E-22
+		QUOTE: 4.027168E-36
+		SINGULAR: 8.503464E-35
+		LEMMA: 9.3978386E-35
+------
+GOLD: NONE
+GUESS: NONE
+CONTEXT: The headline in the Islam daily of Al-Rashid Trust on 020115 stated action extreme against extremism above an article stating that the Pakistani government should not domineer a large section of Pakistani society which supported the jihad against Indian rule in the divided Himalayan [state] of Kashmir .
+	"Token string": state
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.50312495
+		NONE: 0.49687526
+		MANY: 0.48438004
+		VERB: 0.48438004
+		QUOTE: 0.48438004
+		SINGULAR: 0.48438004
+		LEMMA: 0.48438004
+	Google 300-dim word embeddings
+		IDENTITY: 0.080353454
+		NONE: 0.15718746
+		MANY: 0.0011936419
+		VERB: 0.0018968477
+		QUOTE: 0.0024434007
+		SINGULAR: 2.1297524E-4
+		LEMMA: 2.099982E-4
+	NER Tags
+		IDENTITY: 1.502112E-22
+		NONE: 1.620336E-4
+		MANY: 1.3336149E-34
+		VERB: 1.0323854E-22
+		QUOTE: 4.027168E-36
+		SINGULAR: 8.503464E-35
+		LEMMA: 9.3978386E-35
+------
+GOLD: NONE
+GUESS: NONE
+CONTEXT: Rakhimov was also said to have bribed members of the International Amateur Boxing Federation in the vote for the [Federation] Presidency .
+	"Token string": Federation
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.49373087
+		NONE: 0.49374977
+		MANY: 0.49374598
+		VERB: 0.49374923
+		QUOTE: 0.5103806
+		SINGULAR: 0.49374995
+		LEMMA: 0.4937502
+	Google 300-dim word embeddings
+		IDENTITY: 0.08142913
+		NONE: 0.14884481
+		MANY: 0.04170042
+		VERB: 0.052382074
+		QUOTE: 0.22116719
+		SINGULAR: 0.014083833
+		LEMMA: 0.015670164
+	NER Tags
+		IDENTITY: 1.502112E-22
+		NONE: 1.620336E-4
+		MANY: 1.3336149E-34
+		VERB: 1.0323854E-22
+		QUOTE: 4.027168E-36
+		SINGULAR: 8.503464E-35
+		LEMMA: 9.3978386E-35
+------
+GOLD: NONE
+GUESS: NONE
+CONTEXT: Apart from setting up joint venture enterprises , GE also invested more than 1 billion US dollars in China by [means] of airplane and container leasing .
+	"Token string": means
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.50312495
+		NONE: 0.49687502
+		MANY: 0.49687502
+		VERB: 0.49687502
+		QUOTE: 0.49687502
+		SINGULAR: 0.49687502
+		LEMMA: 0.49687502
+	Google 300-dim word embeddings
+		IDENTITY: 0.13057776
+		NONE: 0.16616037
+		MANY: 9.7385455E-5
+		VERB: 0.0023962862
+		QUOTE: 1.11639885E-4
+		SINGULAR: 7.7251745E-5
+		LEMMA: 6.1988394E-5
+	NER Tags
+		IDENTITY: 1.502112E-22
+		NONE: 1.620336E-4
+		MANY: 1.3336149E-34
+		VERB: 1.0323854E-22
+		QUOTE: 4.027168E-36
+		SINGULAR: 8.503464E-35
+		LEMMA: 9.3978386E-35
+------
+GOLD: NONE
+GUESS: NONE
+CONTEXT: The SMH and Jennings were then sued [over] 3 articles published in the lead-up to the 000000 Olympics .
+	"Token string": over
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.5093739
+		NONE: 0.48438004
+		MANY: 0.48438004
+		VERB: 0.49062613
+		QUOTE: 0.48438004
+		SINGULAR: 0.48438004
+		LEMMA: 0.48438004
+	Google 300-dim word embeddings
+		IDENTITY: 0.27658042
+		NONE: 0.645475
+		MANY: 4.894685E-4
+		VERB: 3.166222E-4
+		QUOTE: 1.08236934E-4
+		SINGULAR: 3.2904478E-5
+		LEMMA: 2.0993784E-5
+	NER Tags
+		IDENTITY: 1.502112E-22
+		NONE: 1.620336E-4
+		MANY: 1.3336149E-34
+		VERB: 1.0323854E-22
+		QUOTE: 4.027168E-36
+		SINGULAR: 8.503464E-35
+		LEMMA: 9.3978386E-35
+------
+GOLD: NONE
+GUESS: NONE
+CONTEXT: Are [n't] you one of the assholes who assured us how Romney was inevitable as the GOP nominee ?
+	"Token string": n't
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.45326185
+		NONE: 0.45946446
+		MANY: 0.45326185
+		VERB: 0.5405358
+		QUOTE: 0.45326185
+		SINGULAR: 0.45326185
+		LEMMA: 0.45326185
+	Google 300-dim word embeddings
+		IDENTITY: 0.2247128
+		NONE: 0.353487
+		MANY: 0.014370201
+		VERB: 0.07897561
+		QUOTE: 0.030105224
+		SINGULAR: 0.037914094
+		LEMMA: 0.029933948
+	NER Tags
+		IDENTITY: 1.502112E-22
+		NONE: 1.620336E-4
+		MANY: 1.3336149E-34
+		VERB: 1.0323854E-22
+		QUOTE: 4.027168E-36
+		SINGULAR: 8.503464E-35
+		LEMMA: 9.3978386E-35
+------
+GOLD: MANY
+GUESS: MANY
+CONTEXT: Both Tajikistan and Uzbekistan share a border with Afghanistan and have experienced raids by Taliban-backed Islamic militants in [recent] years .
+	"Token string": recent
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": DURATION
+SCORES:
+	Token string
+		IDENTITY: 0.46978334
+		NONE: 0.481052
+		MANY: 0.82733357
+		VERB: 0.48437926
+		QUOTE: 0.4843796
+		SINGULAR: 0.48438004
+		LEMMA: 0.48438004
+	Google 300-dim word embeddings
+		IDENTITY: 0.31424218
+		NONE: 0.4829053
+		MANY: 0.05354072
+		VERB: 0.0020460812
+		QUOTE: 0.0017752612
+		SINGULAR: 3.7292964E-4
+		LEMMA: 2.6072853E-4
+	NER Tags
+		IDENTITY: 0.16909124
+		NONE: 0.3930216
+		MANY: 0.94966507
+		VERB: 0.26108626
+		QUOTE: 0.17108391
+		SINGULAR: 0.24015914
+		LEMMA: 0.26809904

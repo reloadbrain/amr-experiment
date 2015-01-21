@@ -1,0 +1,2464 @@
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: The jury in [that] case found Rakhimov had been painted as a major international criminal and had been defamed .
+	"Token string": that
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.19193278
+		NONE: 0.8080672
+		MANY: 0.18056858
+		VERB: 0.18056858
+		QUOTE: 0.18056858
+		SINGULAR: 0.18056858
+		LEMMA: 0.18056858
+	Google 300-dim word embeddings
+		IDENTITY: 1.748154E-5
+		NONE: 0.36068833
+		MANY: 5.3933512E-8
+		VERB: 5.773792E-6
+		QUOTE: 9.225251E-8
+		SINGULAR: 8.792594E-8
+		LEMMA: 3.814166E-8
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: Will they try to prop Romney up with a strong VP to help make him more palatable - or will they bring [in] a new face ?
+	"Token string": in
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.12185286
+		NONE: 0.86703575
+		MANY: 0.11155054
+		VERB: 0.11920292
+		QUOTE: 0.11405239
+		SINGULAR: 0.11155054
+		LEMMA: 0.11155054
+	Google 300-dim word embeddings
+		IDENTITY: 1.8154247E-5
+		NONE: 0.83011734
+		MANY: 1.8507926E-7
+		VERB: 7.1212385E-6
+		QUOTE: 5.160113E-7
+		SINGULAR: 2.4981708E-7
+		LEMMA: 1.4201296E-7
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: The ruling Millennium Democratic Party also accused the Ministry of favoring the F-15 k despite the defense [chief] 's insistence that there was no favoritism toward Boeing .
+	"Token string": chief
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.5
+		NONE: 0.49375027
+		MANY: 0.5
+		VERB: 0.49375027
+		QUOTE: 0.49375027
+		SINGULAR: 0.49375027
+		LEMMA: 0.49375027
+	Google 300-dim word embeddings
+		IDENTITY: 0.08543811
+		NONE: 0.17982507
+		MANY: 0.040111896
+		VERB: 0.1110415
+		QUOTE: 0.044699
+		SINGULAR: 0.024522165
+		LEMMA: 0.025871674
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: I do n't think Standtorum will tank , its going to be a close one till the very [end] , I am still rooting for a Romney/McDonnell ticket .
+	"Token string": end
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.49375027
+		NONE: 0.48125878
+		MANY: 0.48125878
+		VERB: 0.50624967
+		QUOTE: 0.48125878
+		SINGULAR: 0.48125878
+		LEMMA: 0.48125878
+	Google 300-dim word embeddings
+		IDENTITY: 0.0048652464
+		NONE: 0.321298
+		MANY: 1.9909827E-4
+		VERB: 0.0030017847
+		QUOTE: 2.4243687E-4
+		SINGULAR: 2.2466386E-4
+		LEMMA: 1.6191963E-4
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: Expert states that cultivation of opium and drug [trafficking] are deeply entrenched in Afghanistan and will be impossible to eradicate .
+	"Token string": trafficking
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.48438004
+		NONE: 0.47813898
+		MANY: 0.47813898
+		VERB: 0.51561993
+		QUOTE: 0.47813898
+		SINGULAR: 0.47813898
+		LEMMA: 0.47813898
+	Google 300-dim word embeddings
+		IDENTITY: 0.057032365
+		NONE: 0.037520234
+		MANY: 0.00893654
+		VERB: 0.06064473
+		QUOTE: 0.021847017
+		SINGULAR: 0.0071119377
+		LEMMA: 0.009611676
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: I heard from a friend at the consulate that the government took this matter very seriously and had promptly agreed to allocate funds to compensate the students who had used their own money instead [that] night .
+	"Token string": that
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.19193278
+		NONE: 0.8080672
+		MANY: 0.18056858
+		VERB: 0.18056858
+		QUOTE: 0.18056858
+		SINGULAR: 0.18056858
+		LEMMA: 0.18056858
+	Google 300-dim word embeddings
+		IDENTITY: 1.748154E-5
+		NONE: 0.36068833
+		MANY: 5.3933512E-8
+		VERB: 5.773792E-6
+		QUOTE: 9.225251E-8
+		SINGULAR: 8.792594E-8
+		LEMMA: 3.814166E-8
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: Newspaper seller Mohammad Farooq stated that Pervez Musharraf 's clamp-down on extremism had done little to limit the demand for banned [religious] extremist publications .
+	"Token string": religious
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.48750263
+		NONE: 0.48125878
+		MANY: 0.48125878
+		VERB: 0.48125878
+		QUOTE: 0.48125878
+		SINGULAR: 0.51249737
+		LEMMA: 0.48125878
+	Google 300-dim word embeddings
+		IDENTITY: 0.030717947
+		NONE: 0.033580117
+		MANY: 0.0023047458
+		VERB: 0.013508465
+		QUOTE: 0.009885239
+		SINGULAR: 0.0030577977
+		LEMMA: 0.002610659
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: A separate report issued recently by the U.S. government-funded [research] group computer science and telecommunications Board stated that cyber security needs considerable improvement .
+	"Token string": research
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.5
+		NONE: 0.49375027
+		MANY: 0.49375027
+		VERB: 0.5
+		QUOTE: 0.49375027
+		SINGULAR: 0.49375027
+		LEMMA: 0.49375027
+	Google 300-dim word embeddings
+		IDENTITY: 0.03133616
+		NONE: 0.11419045
+		MANY: 0.0061223404
+		VERB: 0.04067105
+		QUOTE: 0.010173258
+		SINGULAR: 0.0056242803
+		LEMMA: 0.0057811537
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: For example , according to a Canadian government estimate the love bug launched in May 2000 caused 6.7 billion U.S. dollars in [damage] and disrupted Canadian government systems .
+	"Token string": damage
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.5
+		NONE: 0.49375027
+		MANY: 0.49375027
+		VERB: 0.5
+		QUOTE: 0.49375027
+		SINGULAR: 0.49375027
+		LEMMA: 0.49375027
+	Google 300-dim word embeddings
+		IDENTITY: 0.021746634
+		NONE: 0.16014268
+		MANY: 0.0029748627
+		VERB: 0.041331697
+		QUOTE: 0.0048462697
+		SINGULAR: 0.0032709313
+		LEMMA: 0.0028860138
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: I actually had some other classmates [there] , and was going to call them .
+	"Token string": there
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.48750263
+		NONE: 0.50624967
+		MANY: 0.46257016
+		VERB: 0.4563613
+		QUOTE: 0.4563613
+		SINGULAR: 0.4563613
+		LEMMA: 0.4563613
+	Google 300-dim word embeddings
+		IDENTITY: 7.8316336E-4
+		NONE: 0.10087443
+		MANY: 7.742296E-6
+		VERB: 7.058248E-4
+		QUOTE: 1.2332315E-5
+		SINGULAR: 1.0828923E-5
+		LEMMA: 7.241995E-6
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: Gilbert stated that the post-Soviet republics in central Asia fought terrorism by giving material and other necessary [help] to the international anti-terrorist coalition in the war against Saudi dissident Osama bin Laden and the Taliban regime .
+	"Token string": help
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.48438004
+		NONE: 0.47813898
+		MANY: 0.47813898
+		VERB: 0.51561993
+		QUOTE: 0.47813898
+		SINGULAR: 0.47813898
+		LEMMA: 0.47813898
+	Google 300-dim word embeddings
+		IDENTITY: 0.0036157984
+		NONE: 0.10623973
+		MANY: 1.6888432E-4
+		VERB: 0.006677889
+		QUOTE: 1.8612493E-4
+		SINGULAR: 2.0565903E-4
+		LEMMA: 1.606789E-4
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: Only one phone call I made [there] got through - that was calling home .
+	"Token string": there
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.48750263
+		NONE: 0.50624967
+		MANY: 0.46257016
+		VERB: 0.4563613
+		QUOTE: 0.4563613
+		SINGULAR: 0.4563613
+		LEMMA: 0.4563613
+	Google 300-dim word embeddings
+		IDENTITY: 7.8316336E-4
+		NONE: 0.10087443
+		MANY: 7.742296E-6
+		VERB: 7.058248E-4
+		QUOTE: 1.2332315E-5
+		SINGULAR: 1.0828923E-5
+		LEMMA: 7.241995E-6
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: [Electric] companies are well prepared and are making all preparations required to be ready for any physical or cyberattack .
+	"Token string": Electric
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.49062613
+		NONE: 0.48438004
+		MANY: 0.48438004
+		VERB: 0.48438004
+		QUOTE: 0.5093739
+		SINGULAR: 0.48438004
+		LEMMA: 0.48438004
+	Google 300-dim word embeddings
+		IDENTITY: 0.0834933
+		NONE: 0.1949166
+		MANY: 0.029203068
+		VERB: 0.06946395
+		QUOTE: 0.10232501
+		SINGULAR: 0.029808054
+		LEMMA: 0.027920919
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: Electric companies are [well] prepared and are making all preparations required to be ready for any physical or cyberattack .
+	"Token string": well
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.49062613
+		NONE: 0.49687502
+		MANY: 0.48438004
+		VERB: 0.48438004
+		QUOTE: 0.48438004
+		SINGULAR: 0.49687502
+		LEMMA: 0.48438004
+	Google 300-dim word embeddings
+		IDENTITY: 0.0040057288
+		NONE: 0.29035065
+		MANY: 1.0524896E-4
+		VERB: 0.0022372813
+		QUOTE: 1.5904683E-4
+		SINGULAR: 1.8820917E-4
+		LEMMA: 1.3348096E-4
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: Although current forecasting standards can not give us an accurate prediction of the exact time , place , and strength of an earthquake , there is considerable experience accumulated both in China and overseas in predicting to [within] the timeframe of a month , and the area of a province .
+	"Token string": within
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.49375027
+		NONE: 0.50624967
+		MANY: 0.48750263
+		VERB: 0.48750263
+		QUOTE: 0.48750263
+		SINGULAR: 0.48750263
+		LEMMA: 0.48750263
+	Google 300-dim word embeddings
+		IDENTITY: 8.9133263E-4
+		NONE: 0.54890925
+		MANY: 3.2223415E-5
+		VERB: 5.625855E-4
+		QUOTE: 5.2632746E-5
+		SINGULAR: 4.7886613E-5
+		LEMMA: 3.1951873E-5
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: The government will rush [in] and show these people that government dependency is better than working and providing for themselves .
+	"Token string": in
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.12185286
+		NONE: 0.86703575
+		MANY: 0.11155054
+		VERB: 0.11920292
+		QUOTE: 0.11405239
+		SINGULAR: 0.11155054
+		LEMMA: 0.11155054
+	Google 300-dim word embeddings
+		IDENTITY: 1.8154247E-5
+		NONE: 0.83011734
+		MANY: 1.8507926E-7
+		VERB: 7.1212385E-6
+		QUOTE: 5.160113E-7
+		SINGULAR: 2.4981708E-7
+		LEMMA: 1.4201296E-7
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: Tajik government expert and head of the Tajik Drug Control Agency Vladimir Rakhmonov stated on 10 February 2002 that the U.S.-led [war] in Afghanistan had failed to stop drug trafficking across the border into Tajikistan .
+	"Token string": war
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.49687502
+		NONE: 0.47813898
+		MANY: 0.47813898
+		VERB: 0.50312495
+		QUOTE: 0.47813898
+		SINGULAR: 0.47813898
+		LEMMA: 0.47813898
+	Google 300-dim word embeddings
+		IDENTITY: 0.01860563
+		NONE: 0.037723776
+		MANY: 0.0010930253
+		VERB: 0.006706912
+		QUOTE: 0.0051695895
+		SINGULAR: 0.001112477
+		LEMMA: 0.0010520242
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: He could call [it] the APOLOGIES ON BEER tour .
+	"Token string": it
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.45946416
+		NONE: 0.49687502
+		MANY: 0.3983128
+		VERB: 0.42250463
+		QUOTE: 0.3983128
+		SINGULAR: 0.41641688
+		LEMMA: 0.3983128
+	Google 300-dim word embeddings
+		IDENTITY: 1.5000481E-4
+		NONE: 0.15724161
+		MANY: 4.2641986E-7
+		VERB: 2.364083E-5
+		QUOTE: 7.9430583E-7
+		SINGULAR: 6.813128E-7
+		LEMMA: 3.5505622E-7
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: In the past the CCP has done a lot of these sorts of things , but on this occasion not only did nothing , but in response to queries from the public pulled [out] some whopping lies , playing syntax games with words like `` geological disaster '' and `` earthquake disaster '' .
+	"Token string": out
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.48750263
+		NONE: 0.51249737
+		MANY: 0.46257016
+		VERB: 0.46257016
+		QUOTE: 0.46257016
+		SINGULAR: 0.46257016
+		LEMMA: 0.46257016
+	Google 300-dim word embeddings
+		IDENTITY: 0.0021207107
+		NONE: 0.35435888
+		MANY: 3.7266764E-5
+		VERB: 7.46647E-4
+		QUOTE: 4.5529232E-5
+		SINGULAR: 5.703537E-5
+		LEMMA: 3.7233367E-5
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: Increase the welfare rolls till the takers outweigh the givers . Only then can socialism creep [in] .
+	"Token string": in
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.12185286
+		NONE: 0.86703575
+		MANY: 0.11155054
+		VERB: 0.11920292
+		QUOTE: 0.11405239
+		SINGULAR: 0.11155054
+		LEMMA: 0.11155054
+	Google 300-dim word embeddings
+		IDENTITY: 1.8154247E-5
+		NONE: 0.83011734
+		MANY: 1.8507926E-7
+		VERB: 7.1212385E-6
+		QUOTE: 5.160113E-7
+		SINGULAR: 2.4981708E-7
+		LEMMA: 1.4201296E-7
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: Everything Obama has done is straight from Alinsky 's Rules for Radicals . All of [it] .
+	"Token string": it
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.45946416
+		NONE: 0.49687502
+		MANY: 0.3983128
+		VERB: 0.42250463
+		QUOTE: 0.3983128
+		SINGULAR: 0.41641688
+		LEMMA: 0.3983128
+	Google 300-dim word embeddings
+		IDENTITY: 1.5000481E-4
+		NONE: 0.15724161
+		MANY: 4.2641986E-7
+		VERB: 2.364083E-5
+		QUOTE: 7.9430583E-7
+		SINGULAR: 6.813128E-7
+		LEMMA: 3.5505622E-7
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: If some on the left want to remain ignorant and not read Alinky 's book to prove [it] , that is on them .
+	"Token string": it
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.45946416
+		NONE: 0.49687502
+		MANY: 0.3983128
+		VERB: 0.42250463
+		QUOTE: 0.3983128
+		SINGULAR: 0.41641688
+		LEMMA: 0.3983128
+	Google 300-dim word embeddings
+		IDENTITY: 1.5000481E-4
+		NONE: 0.15724161
+		MANY: 4.2641986E-7
+		VERB: 2.364083E-5
+		QUOTE: 7.9430583E-7
+		SINGULAR: 6.813128E-7
+		LEMMA: 3.5505622E-7
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: If some on the left want to remain ignorant and not read Alinky 's book to prove it , that is [on] them .
+	"Token string": on
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.37460765
+		NONE: 0.6195173
+		MANY: 0.36876932
+		VERB: 0.37460765
+		QUOTE: 0.36876932
+		SINGULAR: 0.36876932
+		LEMMA: 0.36876932
+	Google 300-dim word embeddings
+		IDENTITY: 3.45001E-4
+		NONE: 0.7012174
+		MANY: 9.627424E-6
+		VERB: 1.9992901E-4
+		QUOTE: 1.7760522E-5
+		SINGULAR: 1.2935591E-5
+		LEMMA: 7.844593E-6
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: I think that if our Earthquake Administration had been able beforehand to do a simulation of big earthquakes on this Longmenshan mountain earthquake belt , then on [that] day of May 12 , once the Earthquake Administration had measured the quake at a magnitude of 7.8 , we would have been able to broadly judge the extent of damage and destruction in the earthquake disaster zone .
+	"Token string": that
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.19193278
+		NONE: 0.8080672
+		MANY: 0.18056858
+		VERB: 0.18056858
+		QUOTE: 0.18056858
+		SINGULAR: 0.18056858
+		LEMMA: 0.18056858
+	Google 300-dim word embeddings
+		IDENTITY: 1.748154E-5
+		NONE: 0.36068833
+		MANY: 5.3933512E-8
+		VERB: 5.773792E-6
+		QUOTE: 9.225251E-8
+		SINGULAR: 8.792594E-8
+		LEMMA: 3.814166E-8
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: I think Gingrich 's sole win in GA is enough to hang [it] up and go back to making millions in the private sector .
+	"Token string": it
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.45946416
+		NONE: 0.49687502
+		MANY: 0.3983128
+		VERB: 0.42250463
+		QUOTE: 0.3983128
+		SINGULAR: 0.41641688
+		LEMMA: 0.3983128
+	Google 300-dim word embeddings
+		IDENTITY: 1.5000481E-4
+		NONE: 0.15724161
+		MANY: 4.2641986E-7
+		VERB: 2.364083E-5
+		QUOTE: 7.9430583E-7
+		SINGULAR: 6.813128E-7
+		LEMMA: 3.5505622E-7
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: This represented a 26 percent increase overall in 2001 with 3 [times] the amount of heroin .
+	"Token string": times
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.50312495
+		NONE: 0.49687502
+		MANY: 0.49687502
+		VERB: 0.49687502
+		QUOTE: 0.49687502
+		SINGULAR: 0.49687502
+		LEMMA: 0.49687502
+	Google 300-dim word embeddings
+		IDENTITY: 0.0038726805
+		NONE: 0.3135587
+		MANY: 2.2594997E-4
+		VERB: 0.002114884
+		QUOTE: 2.91831E-4
+		SINGULAR: 2.5321238E-4
+		LEMMA: 2.8937074E-4
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: I think the Good Doctor is too crazy to hang [it] up .
+	"Token string": it
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.45946416
+		NONE: 0.49687502
+		MANY: 0.3983128
+		VERB: 0.42250463
+		QUOTE: 0.3983128
+		SINGULAR: 0.41641688
+		LEMMA: 0.3983128
+	Google 300-dim word embeddings
+		IDENTITY: 1.5000481E-4
+		NONE: 0.15724161
+		MANY: 4.2641986E-7
+		VERB: 2.364083E-5
+		QUOTE: 7.9430583E-7
+		SINGULAR: 6.813128E-7
+		LEMMA: 3.5505622E-7
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: I think that if our Earthquake Administration had been able beforehand to do a simulation of big earthquakes on this Longmenshan mountain earthquake belt , then on that day of May 12 , once the Earthquake Administration had measured the quake at a magnitude of 7.8 , we would have been able to broadly judge the [extent] of damage and destruction in the earthquake disaster zone .
+	"Token string": extent
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.49375027
+		VERB: 0.49375027
+		QUOTE: 0.49375027
+		SINGULAR: 0.49375027
+		LEMMA: 0.49375027
+	Google 300-dim word embeddings
+		IDENTITY: 0.0036393118
+		NONE: 0.23542328
+		MANY: 1.6569701E-4
+		VERB: 0.0029906002
+		QUOTE: 2.558615E-4
+		SINGULAR: 2.3078821E-4
+		LEMMA: 1.7632416E-4
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: Iran is a major [transit] point between drug producers in Afghanistan and Pakistan and the markets of Europe and the Gulf .
+	"Token string": transit
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.5
+		NONE: 0.49375027
+		MANY: 0.49375027
+		VERB: 0.5
+		QUOTE: 0.49375027
+		SINGULAR: 0.49375027
+		LEMMA: 0.49375027
+	Google 300-dim word embeddings
+		IDENTITY: 0.04704921
+		NONE: 0.04336375
+		MANY: 0.004404985
+		VERB: 0.022746613
+		QUOTE: 0.011016417
+		SINGULAR: 0.003894893
+		LEMMA: 0.004076157
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: The only one with any [reason] to will be Newt , but I do n't think that he will .
+	"Token string": reason
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.5
+		NONE: 0.49375027
+		MANY: 0.49375027
+		VERB: 0.5
+		QUOTE: 0.49375027
+		SINGULAR: 0.49375027
+		LEMMA: 0.49375027
+	Google 300-dim word embeddings
+		IDENTITY: 0.008997207
+		NONE: 0.120977625
+		MANY: 3.4944876E-4
+		VERB: 0.008225109
+		QUOTE: 4.0190323E-4
+		SINGULAR: 4.3817481E-4
+		LEMMA: 3.3519385E-4
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: Consequently , experts have predicted that the world has at least ten years within which to lower the volume of greenhouse gas emissions before [it] is too late to redeem the situation .
+	"Token string": it
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.45946416
+		NONE: 0.49687502
+		MANY: 0.3983128
+		VERB: 0.42250463
+		QUOTE: 0.3983128
+		SINGULAR: 0.41641688
+		LEMMA: 0.3983128
+	Google 300-dim word embeddings
+		IDENTITY: 1.5000481E-4
+		NONE: 0.15724161
+		MANY: 4.2641986E-7
+		VERB: 2.364083E-5
+		QUOTE: 7.9430583E-7
+		SINGULAR: 6.813128E-7
+		LEMMA: 3.5505622E-7
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: The only one with any reason to will be Newt , but I do n't think that he [will] .
+	"Token string": will
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.43168002
+		NONE: 0.56832
+		MANY: 0.41945767
+		VERB: 0.41945767
+		QUOTE: 0.41945767
+		SINGULAR: 0.41945767
+		LEMMA: 0.41945767
+	Google 300-dim word embeddings
+		IDENTITY: 8.705772E-4
+		NONE: 0.4742028
+		MANY: 4.9837618E-5
+		VERB: 0.0010844475
+		QUOTE: 6.519656E-5
+		SINGULAR: 7.284996E-5
+		LEMMA: 4.1141793E-5
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: Tajikistan 's 780-mile border with Afghanistan is patrolled by [approximately] 11000 Russian soldiers under a 1992 agreement between the Russian and Tajik Governments .
+	"Token string": approximately
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.49687502
+		NONE: 0.49062613
+		MANY: 0.49062613
+		VERB: 0.49062613
+		QUOTE: 0.49062613
+		SINGULAR: 0.50312495
+		LEMMA: 0.49062613
+	Google 300-dim word embeddings
+		IDENTITY: 0.010283913
+		NONE: 0.271718
+		MANY: 0.0010135648
+		VERB: 0.005621374
+		QUOTE: 0.0017823549
+		SINGULAR: 0.0010561685
+		LEMMA: 8.0334075E-4
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: My heart goes [out] to the people in tornado alley and I have no problem with my tax dollars going to help the survivors rebuild their lives .
+	"Token string": out
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.48750263
+		NONE: 0.51249737
+		MANY: 0.46257016
+		VERB: 0.46257016
+		QUOTE: 0.46257016
+		SINGULAR: 0.46257016
+		LEMMA: 0.46257016
+	Google 300-dim word embeddings
+		IDENTITY: 0.0021207107
+		NONE: 0.35435888
+		MANY: 3.7266764E-5
+		VERB: 7.46647E-4
+		QUOTE: 4.5529232E-5
+		SINGULAR: 5.703537E-5
+		LEMMA: 3.7233367E-5
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: If you have no problem with your tax dollars going to aid them then you 'd have no problem donating to them of your own free [will] .
+	"Token string": will
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.43168002
+		NONE: 0.56832
+		MANY: 0.41945767
+		VERB: 0.41945767
+		QUOTE: 0.41945767
+		SINGULAR: 0.41945767
+		LEMMA: 0.41945767
+	Google 300-dim word embeddings
+		IDENTITY: 8.705772E-4
+		NONE: 0.4742028
+		MANY: 4.9837618E-5
+		VERB: 0.0010844475
+		QUOTE: 6.519656E-5
+		SINGULAR: 7.284996E-5
+		LEMMA: 4.1141793E-5
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: While it should have been a disaster relief command that takes overall leadership , [it] has suddenly come face-to-face with the broad base of disaster victims , directly dealing with them .
+	"Token string": it
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.45946416
+		NONE: 0.49687502
+		MANY: 0.3983128
+		VERB: 0.42250463
+		QUOTE: 0.3983128
+		SINGULAR: 0.41641688
+		LEMMA: 0.3983128
+	Google 300-dim word embeddings
+		IDENTITY: 1.5000481E-4
+		NONE: 0.15724161
+		MANY: 4.2641986E-7
+		VERB: 2.364083E-5
+		QUOTE: 7.9430583E-7
+		SINGULAR: 6.813128E-7
+		LEMMA: 3.5505622E-7
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: Even if someone has insurance to cover their [loss] , that wo n't extend to the roads , power lines , sewers , public buildings .
+	"Token string": loss
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.5
+		NONE: 0.49375027
+		MANY: 0.49375027
+		VERB: 0.5
+		QUOTE: 0.49375027
+		SINGULAR: 0.49375027
+		LEMMA: 0.49375027
+	Google 300-dim word embeddings
+		IDENTITY: 0.021649182
+		NONE: 0.32903484
+		MANY: 0.0024486063
+		VERB: 0.019586902
+		QUOTE: 0.003347118
+		SINGULAR: 0.00281739
+		LEMMA: 0.0022181335
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: The lack or serious shortage of intermediate layers of [Party] organizations and units between the two has resulted in its inability to consider major issues with endless minor issues on hand , such that even if it is highly capable , it wo n't last long , as it will be dragged down by numerous petty things .
+	"Token string": Party
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.5
+		NONE: 0.48750263
+		MANY: 0.48750263
+		VERB: 0.48750263
+		QUOTE: 0.5
+		SINGULAR: 0.48750263
+		LEMMA: 0.48750263
+	Google 300-dim word embeddings
+		IDENTITY: 0.12024571
+		NONE: 0.12081623
+		MANY: 0.04626857
+		VERB: 0.0783439
+		QUOTE: 0.11907984
+		SINGULAR: 0.036659032
+		LEMMA: 0.03978638
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: The problem with this regime is [aid] is not distributed equally .
+	"Token string": aid
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.49687502
+		NONE: 0.49062613
+		MANY: 0.49062613
+		VERB: 0.50312495
+		QUOTE: 0.49062613
+		SINGULAR: 0.49062613
+		LEMMA: 0.49062613
+	Google 300-dim word embeddings
+		IDENTITY: 0.01418611
+		NONE: 0.05634714
+		MANY: 0.0014169862
+		VERB: 0.0090018
+		QUOTE: 0.003829781
+		SINGULAR: 0.001085602
+		LEMMA: 0.0012244729
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: A recent survey stated that [about] one million dogs are sold every year for food in South Korea and 92 percent of men aged 20 and above and 68 percent of adult women have tasted dog meat .
+	"Token string": about
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.48438004
+		NONE: 0.51561993
+		MANY: 0.47813898
+		VERB: 0.47813898
+		QUOTE: 0.47813898
+		SINGULAR: 0.47813898
+		LEMMA: 0.47813898
+	Google 300-dim word embeddings
+		IDENTITY: 0.0017502983
+		NONE: 0.2662645
+		MANY: 3.3154414E-5
+		VERB: 7.401412E-4
+		QUOTE: 4.424996E-5
+		SINGULAR: 4.037459E-5
+		LEMMA: 2.4534234E-5
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: Banharn Silpa - Archa , prime [minister] of Thailand , who arrived at Myanmar this morning to pay a visit , and Than Shwe , chairman of the State Law and Order Restoration Council and prime minister of Myanmaran government , chaired the signing ceremony .
+	"Token string": minister
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.48750263
+		NONE: 0.48125878
+		MANY: 0.50624967
+		VERB: 0.48750263
+		QUOTE: 0.48125878
+		SINGULAR: 0.48125878
+		LEMMA: 0.48125878
+	Google 300-dim word embeddings
+		IDENTITY: 0.10626555
+		NONE: 0.059545297
+		MANY: 0.043193452
+		VERB: 0.074217565
+		QUOTE: 0.0715266
+		SINGULAR: 0.022674393
+		LEMMA: 0.0251091
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: The Riyadh-based Naif Arab Academy for Security Sciences said in a [statement] that it was running a two-week workshop for 50 anti-terrorism experts .
+	"Token string": statement
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.49687502
+		NONE: 0.49062613
+		MANY: 0.49687502
+		VERB: 0.49687502
+		QUOTE: 0.49062613
+		SINGULAR: 0.49062613
+		LEMMA: 0.49062613
+	Google 300-dim word embeddings
+		IDENTITY: 0.014645484
+		NONE: 0.19957264
+		MANY: 0.0033540798
+		VERB: 0.032803066
+		QUOTE: 0.004054188
+		SINGULAR: 0.0024196957
+		LEMMA: 0.0020732768
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: [Power] cuts could lead to a failure of all work with space craft .
+	"Token string": Power
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.5
+		NONE: 0.49375027
+		MANY: 0.49375027
+		VERB: 0.49375027
+		QUOTE: 0.5
+		SINGULAR: 0.49375027
+		LEMMA: 0.49375027
+	Google 300-dim word embeddings
+		IDENTITY: 0.076922536
+		NONE: 0.22658208
+		MANY: 0.020324728
+		VERB: 0.055898532
+		QUOTE: 0.063070536
+		SINGULAR: 0.022279667
+		LEMMA: 0.019014398
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: A recent survey stated that about one million dogs are sold every year for food in South Korea and 92 percent of [men] aged 20 and above and 68 percent of adult women have tasted dog meat .
+	"Token string": men
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.50312495
+		NONE: 0.49687502
+		MANY: 0.49687502
+		VERB: 0.49687502
+		QUOTE: 0.49687502
+		SINGULAR: 0.49687502
+		LEMMA: 0.49687502
+	Google 300-dim word embeddings
+		IDENTITY: 0.011933978
+		NONE: 0.22856939
+		MANY: 0.0019396631
+		VERB: 0.0059188497
+		QUOTE: 0.003933875
+		SINGULAR: 0.0021799153
+		LEMMA: 0.0024663494
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: A recent survey stated that about one million dogs are sold every year for food in South Korea and 92 percent of men aged 20 and above and 68 percent of adult [women] have tasted dog meat .
+	"Token string": women
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.49687502
+		NONE: 0.49062613
+		MANY: 0.49062613
+		VERB: 0.49062613
+		QUOTE: 0.49062613
+		SINGULAR: 0.49062613
+		LEMMA: 0.50312495
+	Google 300-dim word embeddings
+		IDENTITY: 0.015993267
+		NONE: 0.17475699
+		MANY: 0.002307673
+		VERB: 0.00556526
+		QUOTE: 0.005836089
+		SINGULAR: 0.002590606
+		LEMMA: 0.0027321735
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: This would have been unimaginable during the Great Tangshan Earthquake . A time without volunteers or mental workers , such petty things as directly dealing with average people were performed by the most primary [Party] branches , as well as enterprises and public institutions .
+	"Token string": Party
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.5
+		NONE: 0.48750263
+		MANY: 0.48750263
+		VERB: 0.48750263
+		QUOTE: 0.5
+		SINGULAR: 0.48750263
+		LEMMA: 0.48750263
+	Google 300-dim word embeddings
+		IDENTITY: 0.12024571
+		NONE: 0.12081623
+		MANY: 0.04626857
+		VERB: 0.0783439
+		QUOTE: 0.11907984
+		SINGULAR: 0.036659032
+		LEMMA: 0.03978638
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: On 5 January 2002 pan-Arab anti-terror academy Naif Arab Academy for Security Sciences reopened for the [first] time since the September 2001 terror attacks on the US .
+	"Token string": first
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.49375027
+		NONE: 0.48125878
+		MANY: 0.50624967
+		VERB: 0.48125878
+		QUOTE: 0.48125878
+		SINGULAR: 0.48125878
+		LEMMA: 0.48125878
+	Google 300-dim word embeddings
+		IDENTITY: 0.0021749507
+		NONE: 0.5505626
+		MANY: 7.295542E-5
+		VERB: 6.6409627E-4
+		QUOTE: 8.691646E-5
+		SINGULAR: 6.9747744E-5
+		LEMMA: 4.1452873E-5
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: February 28 , 2002 Kabul officials announced that Afghan police are creating their [first] anti-narcotics units with the help of the United Nations due to concern that the country could again become a major producer of opium .
+	"Token string": first
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.49375027
+		NONE: 0.48125878
+		MANY: 0.50624967
+		VERB: 0.48125878
+		QUOTE: 0.48125878
+		SINGULAR: 0.48125878
+		LEMMA: 0.48125878
+	Google 300-dim word embeddings
+		IDENTITY: 0.0021749507
+		NONE: 0.5505626
+		MANY: 7.295542E-5
+		VERB: 6.6409627E-4
+		QUOTE: 8.691646E-5
+		SINGULAR: 6.9747744E-5
+		LEMMA: 4.1452873E-5
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: A total unexpected loss of power [during] control of military equipment could be catastrophic .
+	"Token string": during
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.49375027
+		NONE: 0.50624967
+		MANY: 0.48750263
+		VERB: 0.48750263
+		QUOTE: 0.48750263
+		SINGULAR: 0.48750263
+		LEMMA: 0.48750263
+	Google 300-dim word embeddings
+		IDENTITY: 8.163004E-4
+		NONE: 0.664351
+		MANY: 4.6186375E-5
+		VERB: 5.776814E-4
+		QUOTE: 6.2147556E-5
+		SINGULAR: 4.3198084E-5
+		LEMMA: 3.0494697E-5
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: Perhaps when Libertarians figure out a way to differentiate between the [two] , I 'll vote for them .
+	"Token string": two
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.48125878
+		NONE: 0.48750263
+		MANY: 0.4750208
+		VERB: 0.4750208
+		QUOTE: 0.4750208
+		SINGULAR: 0.50624967
+		LEMMA: 0.4750208
+	Google 300-dim word embeddings
+		IDENTITY: 0.0031991166
+		NONE: 0.27292737
+		MANY: 6.695572E-5
+		VERB: 9.1303466E-4
+		QUOTE: 1.304858E-4
+		SINGULAR: 1.16143834E-4
+		LEMMA: 5.3011037E-5
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: Newspapers and magazines extolling the virtues of Islamic holy [war] in Kashmir continue to fill the newstands in Pakistan despite the Pakistani military Government 's attempt at a large scale containment of religious extremism .
+	"Token string": war
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.49687502
+		NONE: 0.47813898
+		MANY: 0.47813898
+		VERB: 0.50312495
+		QUOTE: 0.47813898
+		SINGULAR: 0.47813898
+		LEMMA: 0.47813898
+	Google 300-dim word embeddings
+		IDENTITY: 0.01860563
+		NONE: 0.037723776
+		MANY: 0.0010930253
+		VERB: 0.006706912
+		QUOTE: 0.0051695895
+		SINGULAR: 0.001112477
+		LEMMA: 0.0010520242
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: But the rest of us are thinking about the people that do not have insurance and/or need help [right] now .
+	"Token string": right
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.49687502
+		NONE: 0.49062613
+		MANY: 0.49062613
+		VERB: 0.50312495
+		QUOTE: 0.49062613
+		SINGULAR: 0.49062613
+		LEMMA: 0.49062613
+	Google 300-dim word embeddings
+		IDENTITY: 0.0023655377
+		NONE: 0.30332285
+		MANY: 3.9005918E-5
+		VERB: 0.0010370708
+		QUOTE: 5.993163E-5
+		SINGULAR: 6.906293E-5
+		LEMMA: 3.8534778E-5
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: Qanooni outlined a three-stage [plan] of action --
+	"Token string": plan
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.49062613
+		NONE: 0.48438004
+		MANY: 0.49062613
+		VERB: 0.50312495
+		QUOTE: 0.48438004
+		SINGULAR: 0.48438004
+		LEMMA: 0.48438004
+	Google 300-dim word embeddings
+		IDENTITY: 0.00998439
+		NONE: 0.08452191
+		MANY: 5.630597E-4
+		VERB: 0.008729083
+		QUOTE: 6.2490284E-4
+		SINGULAR: 4.8062284E-4
+		LEMMA: 4.5660528E-4
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: Qanooni outlined a three-stage plan of [action] --
+	"Token string": action
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.49687502
+		NONE: 0.49062613
+		MANY: 0.49062613
+		VERB: 0.50312495
+		QUOTE: 0.49062613
+		SINGULAR: 0.49062613
+		LEMMA: 0.49062613
+	Google 300-dim word embeddings
+		IDENTITY: 0.010178997
+		NONE: 0.3003015
+		MANY: 0.0010846148
+		VERB: 0.013657201
+		QUOTE: 0.0014011519
+		SINGULAR: 0.001131655
+		LEMMA: 0.001042241
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: Many people died , much property was destroyed , [it] was quite clearly a great disaster .
+	"Token string": it
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.45946416
+		NONE: 0.49687502
+		MANY: 0.3983128
+		VERB: 0.42250463
+		QUOTE: 0.3983128
+		SINGULAR: 0.41641688
+		LEMMA: 0.3983128
+	Google 300-dim word embeddings
+		IDENTITY: 1.5000481E-4
+		NONE: 0.15724161
+		MANY: 4.2641986E-7
+		VERB: 2.364083E-5
+		QUOTE: 7.9430583E-7
+		SINGULAR: 6.813128E-7
+		LEMMA: 3.5505622E-7
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: How does one survive when you have the funds but the people you need to buy the goods from has no [address] ?
+	"Token string": address
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.5
+		NONE: 0.49375027
+		MANY: 0.49375027
+		VERB: 0.5
+		QUOTE: 0.49375027
+		SINGULAR: 0.49375027
+		LEMMA: 0.49375027
+	Google 300-dim word embeddings
+		IDENTITY: 0.019177143
+		NONE: 0.17956032
+		MANY: 0.0022168558
+		VERB: 0.03308333
+		QUOTE: 0.0026381074
+		SINGULAR: 0.0019894636
+		LEMMA: 0.002075651
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: Homeowners generally have insurance , but Federal Aid is necessary to provide for the clean up , repairs of electrical and water systems , roads , schools , [buses] , etc. etc. .
+	"Token string": buses
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.49687502
+		NONE: 0.49062613
+		MANY: 0.49062613
+		VERB: 0.49687502
+		QUOTE: 0.49062613
+		SINGULAR: 0.49062613
+		LEMMA: 0.49687502
+	Google 300-dim word embeddings
+		IDENTITY: 0.07639762
+		NONE: 0.07469905
+		MANY: 0.014262318
+		VERB: 0.043074545
+		QUOTE: 0.018057935
+		SINGULAR: 0.011638927
+		LEMMA: 0.016945872
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: No [surprise] there .
+	"Token string": surprise
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.5
+		NONE: 0.49375027
+		MANY: 0.49375027
+		VERB: 0.5
+		QUOTE: 0.49375027
+		SINGULAR: 0.49375027
+		LEMMA: 0.49375027
+	Google 300-dim word embeddings
+		IDENTITY: 0.023213893
+		NONE: 0.23716299
+		MANY: 0.0020637794
+		VERB: 0.020034963
+		QUOTE: 0.0025893901
+		SINGULAR: 0.001994294
+		LEMMA: 0.0013330386
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: No surprise [there] .
+	"Token string": there
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.48750263
+		NONE: 0.50624967
+		MANY: 0.46257016
+		VERB: 0.4563613
+		QUOTE: 0.4563613
+		SINGULAR: 0.4563613
+		LEMMA: 0.4563613
+	Google 300-dim word embeddings
+		IDENTITY: 7.8316336E-4
+		NONE: 0.10087443
+		MANY: 7.742296E-6
+		VERB: 7.058248E-4
+		QUOTE: 1.2332315E-5
+		SINGULAR: 1.0828923E-5
+		LEMMA: 7.241995E-6
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: He had to win [there] to stay in , so ultimately this helps Mitt keep the vote split .
+	"Token string": there
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.48750263
+		NONE: 0.50624967
+		MANY: 0.46257016
+		VERB: 0.4563613
+		QUOTE: 0.4563613
+		SINGULAR: 0.4563613
+		LEMMA: 0.4563613
+	Google 300-dim word embeddings
+		IDENTITY: 7.8316336E-4
+		NONE: 0.10087443
+		MANY: 7.742296E-6
+		VERB: 7.058248E-4
+		QUOTE: 1.2332315E-5
+		SINGULAR: 1.0828923E-5
+		LEMMA: 7.241995E-6
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: Vice [President] of Canadian electricity Association Francis Bradley stated that the company has a warning system for both physical and cyberattacks .
+	"Token string": President
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.5
+		NONE: 0.49375027
+		MANY: 0.5
+		VERB: 0.49375027
+		QUOTE: 0.49375027
+		SINGULAR: 0.49375027
+		LEMMA: 0.49375027
+	Google 300-dim word embeddings
+		IDENTITY: 0.09257047
+		NONE: 0.13048044
+		MANY: 0.06514828
+		VERB: 0.115041904
+		QUOTE: 0.10187143
+		SINGULAR: 0.039504968
+		LEMMA: 0.04161734
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: He had to win there to stay [in] , so ultimately this helps Mitt keep the vote split .
+	"Token string": in
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.12185286
+		NONE: 0.86703575
+		MANY: 0.11155054
+		VERB: 0.11920292
+		QUOTE: 0.11405239
+		SINGULAR: 0.11155054
+		LEMMA: 0.11155054
+	Google 300-dim word embeddings
+		IDENTITY: 1.8154247E-5
+		NONE: 0.83011734
+		MANY: 1.8507926E-7
+		VERB: 7.1212385E-6
+		QUOTE: 5.160113E-7
+		SINGULAR: 2.4981708E-7
+		LEMMA: 1.4201296E-7
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: He had to win there to stay in , so ultimately this helps Mitt keep the [vote] split .
+	"Token string": vote
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.5
+		NONE: 0.49375027
+		MANY: 0.49375027
+		VERB: 0.5
+		QUOTE: 0.49375027
+		SINGULAR: 0.49375027
+		LEMMA: 0.49375027
+	Google 300-dim word embeddings
+		IDENTITY: 0.025650594
+		NONE: 0.112863235
+		MANY: 0.0034559185
+		VERB: 0.026187247
+		QUOTE: 0.0046448014
+		SINGULAR: 0.00288309
+		LEMMA: 0.0025833885
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: Vice President of Canadian electricity Association Francis Bradley stated that the company has a warning system for [both] physical and cyberattacks .
+	"Token string": both
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.49687502
+		NONE: 0.49687502
+		MANY: 0.49062613
+		VERB: 0.49062613
+		QUOTE: 0.49062613
+		SINGULAR: 0.49687502
+		LEMMA: 0.49062613
+	Google 300-dim word embeddings
+		IDENTITY: 0.0012485696
+		NONE: 0.27033812
+		MANY: 1.9826539E-5
+		VERB: 7.094287E-4
+		QUOTE: 3.6971895E-5
+		SINGULAR: 4.281589E-5
+		LEMMA: 2.1116268E-5
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: Best outcome of the night would have been Newt losing [there] .
+	"Token string": there
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.48750263
+		NONE: 0.50624967
+		MANY: 0.46257016
+		VERB: 0.4563613
+		QUOTE: 0.4563613
+		SINGULAR: 0.4563613
+		LEMMA: 0.4563613
+	Google 300-dim word embeddings
+		IDENTITY: 7.8316336E-4
+		NONE: 0.10087443
+		MANY: 7.742296E-6
+		VERB: 7.058248E-4
+		QUOTE: 1.2332315E-5
+		SINGULAR: 1.0828923E-5
+		LEMMA: 7.241995E-6
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: If he were [out] of the race , Santorum might have had a chance .
+	"Token string": out
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.48750263
+		NONE: 0.51249737
+		MANY: 0.46257016
+		VERB: 0.46257016
+		QUOTE: 0.46257016
+		SINGULAR: 0.46257016
+		LEMMA: 0.46257016
+	Google 300-dim word embeddings
+		IDENTITY: 0.0021207107
+		NONE: 0.35435888
+		MANY: 3.7266764E-5
+		VERB: 7.46647E-4
+		QUOTE: 4.5529232E-5
+		SINGULAR: 5.703537E-5
+		LEMMA: 3.7233367E-5
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: Where is the morality in creating a life when food and [clean] water are rare commodities ?
+	"Token string": clean
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.5
+		NONE: 0.49375027
+		MANY: 0.49375027
+		VERB: 0.5
+		QUOTE: 0.49375027
+		SINGULAR: 0.49375027
+		LEMMA: 0.49375027
+	Google 300-dim word embeddings
+		IDENTITY: 0.013769425
+		NONE: 0.18105805
+		MANY: 8.8367076E-4
+		VERB: 0.014251959
+		QUOTE: 0.0013118908
+		SINGULAR: 0.0010195329
+		LEMMA: 9.0163795E-4
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: The warning from the Canadian Department of National Defense 's office of critical infrastructure protection and emergency service was quietly released on 20 December 2001 and cited no specific [threat] .
+	"Token string": threat
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.5
+		NONE: 0.49375027
+		MANY: 0.49375027
+		VERB: 0.5
+		QUOTE: 0.49375027
+		SINGULAR: 0.49375027
+		LEMMA: 0.49375027
+	Google 300-dim word embeddings
+		IDENTITY: 0.017888889
+		NONE: 0.11164324
+		MANY: 0.0015004642
+		VERB: 0.018822137
+		QUOTE: 0.0027478102
+		SINGULAR: 0.0015706613
+		LEMMA: 0.0014086599
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: Moreover , in [1994] , GE purchased more than 40 million US dollars in products in China , and planned to increase purchasing volume of Chinese products in the next two years .
+	"Token string": 1994
+	"Google 300-dim word embeddings": [all 0s]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.49687502
+		NONE: 0.49062613
+		MANY: 0.50312495
+		VERB: 0.49062613
+		QUOTE: 0.49062613
+		SINGULAR: 0.49062613
+		LEMMA: 0.49062613
+	Google 300-dim word embeddings
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: South Korea 's defense ministry promised to conclude its first-stage appraisal [by] the end of March 2002 .
+	"Token string": by
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.37460765
+		NONE: 0.6195173
+		MANY: 0.36876932
+		VERB: 0.37460765
+		QUOTE: 0.36876932
+		SINGULAR: 0.36876932
+		LEMMA: 0.36876932
+	Google 300-dim word embeddings
+		IDENTITY: 5.3372845E-4
+		NONE: 0.8895351
+		MANY: 5.5395663E-5
+		VERB: 3.0070925E-4
+		QUOTE: 1.0728919E-4
+		SINGULAR: 6.8774214E-5
+		LEMMA: 4.5429093E-5
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: South Korea 's defense ministry promised to conclude its first-stage appraisal by the [end] of March 2002 .
+	"Token string": end
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.49375027
+		NONE: 0.48125878
+		MANY: 0.48125878
+		VERB: 0.50624967
+		QUOTE: 0.48125878
+		SINGULAR: 0.48125878
+		LEMMA: 0.48125878
+	Google 300-dim word embeddings
+		IDENTITY: 0.0048652464
+		NONE: 0.321298
+		MANY: 1.9909827E-4
+		VERB: 0.0030017847
+		QUOTE: 2.4243687E-4
+		SINGULAR: 2.2466386E-4
+		LEMMA: 1.6191963E-4
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: Other groups linked to terrorism and included on the United States Terrorist Exclusion List are also publishing regular newspapers and journals containing rhetoric that is against Western countries and calls for [war] in the name of Islam .
+	"Token string": war
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.49687502
+		NONE: 0.47813898
+		MANY: 0.47813898
+		VERB: 0.50312495
+		QUOTE: 0.47813898
+		SINGULAR: 0.47813898
+		LEMMA: 0.47813898
+	Google 300-dim word embeddings
+		IDENTITY: 0.01860563
+		NONE: 0.037723776
+		MANY: 0.0010930253
+		VERB: 0.006706912
+		QUOTE: 0.0051695895
+		SINGULAR: 0.001112477
+		LEMMA: 0.0010520242
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: Speculation grew in February 2002 when [Defense] Minister Kim Dong-Shin stressed that South Korea should consider security ties with the United States in the project .
+	"Token string": Defense
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.48750263
+		NONE: 0.48125878
+		MANY: 0.48125878
+		VERB: 0.48125878
+		QUOTE: 0.51249737
+		SINGULAR: 0.48125878
+		LEMMA: 0.48125878
+	Google 300-dim word embeddings
+		IDENTITY: 0.052591044
+		NONE: 0.11325135
+		MANY: 0.016141117
+		VERB: 0.041585676
+		QUOTE: 0.066263676
+		SINGULAR: 0.014362915
+		LEMMA: 0.013258152
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: North Korea froze its suspected nuclear [weapons] program at Yongbyon in exchange for receiving two nuclear reactors producing less weapons-grade plutonium under a 1994 accord with the United States .
+	"Token string": weapons
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.49687502
+		NONE: 0.49062613
+		MANY: 0.49062613
+		VERB: 0.49062613
+		QUOTE: 0.49062613
+		SINGULAR: 0.49062613
+		LEMMA: 0.50312495
+	Google 300-dim word embeddings
+		IDENTITY: 0.02243451
+		NONE: 0.041434426
+		MANY: 0.0013799281
+		VERB: 0.011100929
+		QUOTE: 0.0035711927
+		SINGULAR: 0.0015440396
+		LEMMA: 0.0018562133
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: I 'm in favor of feeding , clothing , and giving shelter to the poor . I 'm against all the gov ' t institutions that tax our brains [out] and who inefficiently attempt to provide some of these things .
+	"Token string": out
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.48750263
+		NONE: 0.51249737
+		MANY: 0.46257016
+		VERB: 0.46257016
+		QUOTE: 0.46257016
+		SINGULAR: 0.46257016
+		LEMMA: 0.46257016
+	Google 300-dim word embeddings
+		IDENTITY: 0.0021207107
+		NONE: 0.35435888
+		MANY: 3.7266764E-5
+		VERB: 7.46647E-4
+		QUOTE: 4.5529232E-5
+		SINGULAR: 5.703537E-5
+		LEMMA: 3.7233367E-5
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: Now am I just a genius who does n't know [it] , or is it really not THAT hard to understand such a simple concept ?
+	"Token string": it
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.45946416
+		NONE: 0.49687502
+		MANY: 0.3983128
+		VERB: 0.42250463
+		QUOTE: 0.3983128
+		SINGULAR: 0.41641688
+		LEMMA: 0.3983128
+	Google 300-dim word embeddings
+		IDENTITY: 1.5000481E-4
+		NONE: 0.15724161
+		MANY: 4.2641986E-7
+		VERB: 2.364083E-5
+		QUOTE: 7.9430583E-7
+		SINGULAR: 6.813128E-7
+		LEMMA: 3.5505622E-7
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
+------
+GOLD: IDENTITY
+GUESS: IDENTITY
+CONTEXT: They even lied , saying that they and Xinghui initially felt that signing a contract would rather make each other feel like strangers since they were both doing [it] for the sake of the motherland .
+	"Token string": it
+	"Google 300-dim word embeddings": [...]
+	"Google 300-dim word embeddings context": [...]
+SCORES:
+	Token string
+		IDENTITY: 0.45946416
+		NONE: 0.49687502
+		MANY: 0.3983128
+		VERB: 0.42250463
+		QUOTE: 0.3983128
+		SINGULAR: 0.41641688
+		LEMMA: 0.3983128
+	Google 300-dim word embeddings
+		IDENTITY: 1.5000481E-4
+		NONE: 0.15724161
+		MANY: 4.2641986E-7
+		VERB: 2.364083E-5
+		QUOTE: 7.9430583E-7
+		SINGULAR: 6.813128E-7
+		LEMMA: 3.5505622E-7
+	Google 300-dim word embeddings context
+		IDENTITY: 0.0
+		NONE: 0.0
+		MANY: 0.0
+		VERB: 0.0
+		QUOTE: 0.0
+		SINGULAR: 0.0
+		LEMMA: 0.0
