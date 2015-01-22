@@ -1,0 +1,24 @@
+[Those] bus tours
+we want to ignore some soft determiners
+
+[The] Koran
+Tangshan [Earthquake]
+we want to include the adjacent word in a named entity sometimes
+
+drug [trafficking]
+there are some tough cases where VERB/IDENTITY both seem about right, maybe just punt. In this case the annotator
+labeled it as IDENTITY, but I think it should be VERB
+
+resumed [during]
+need to put in a feature for POS=IN when it's a time expression. Maybe just a gazette.
+
+[magnitude], guess=VERB, [hiatus], guess=VERB
+should put in something about POS=NN, for when we don't know the word, and word-embeddings are taking us toward
+something incorrect.
+
+the death [penalty] for, guess=IDENTITY, actual=VERB
+check how high up the parse tree something is, more central concepts are less likely to be parsed as identity, since
+attaching arguments is more difficult
+
+practice self [sufficiency], guess=MANY, actual=VERB
+???
