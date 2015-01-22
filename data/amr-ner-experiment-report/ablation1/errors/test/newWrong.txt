@@ -1,432 +1,1152 @@
 ------
-GOLD: IDENTITY
-GUESS: VERB
-CONTEXT: Since the Tangshan Earthquake , the starting point for construction standards in the mainland is that under an earthquake of the same [magnitude] , buildings should preserve their basic frame without collapsing .
-	"Token string": magnitude
+GOLD: LEMMA
+GUESS: QUOTE
+CONTEXT: Establishing [Models] in Industrial Innovation
+	"Token string": Models
 	"Google 300-dim word embeddings": [...]
 	"NER Tags": O
 SCORES:
 	Token string
-		IDENTITY: 0.0859808
-		NONE: 0.08651713
-		MANY: 0.084325515
-		VERB: 0.91465056
-		QUOTE: 0.084325515
-		SINGULAR: 0.084325515
-		LEMMA: 0.083727546
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	Google 300-dim word embeddings
+		IDENTITY: 1.1243384202130943E-5
+		NONE: 0.4845206546552962
+		MANY: 0.24150292966163295
+		VERB: 5.546480636544423E-5
+		QUOTE: 0.9945861083250138
+		SINGULAR: 0.263242933124962
+		LEMMA: 0.9990798465204797
+	NER Tags
+		IDENTITY: 8.475426995502431E-4
+		NONE: 0.006468447554229654
+		MANY: 0.27384403826397075
+		VERB: 0.07933158046931915
+		QUOTE: 0.03014255708521006
+		SINGULAR: 0.0033458464031692913
+		LEMMA: 0.0011717735595065534
 ------
-GOLD: IDENTITY
-GUESS: VERB
-CONTEXT: Iranian law states the death penalty for drug [trafficking] .
-	"Token string": trafficking
+GOLD: VERB
+GUESS: LEMMA
+CONTEXT: Iranian law [states] the death penalty for drug trafficking .
+	"Token string": states
 	"Google 300-dim word embeddings": [...]
 	"NER Tags": O
 SCORES:
 	Token string
-		IDENTITY: 0.14336509
-		NONE: 0.04293401
-		MANY: 0.04190428
-		VERB: 0.85666627
-		QUOTE: 0.04190428
-		SINGULAR: 0.04190428
-		LEMMA: 0.041623037
+		IDENTITY: 0.4256971845020245
+		NONE: 0.35692890121342735
+		MANY: 0.35691625823627726
+		VERB: 0.9997560054872652
+		QUOTE: 0.45677477571990666
+		SINGULAR: 0.4165193669939311
+		LEMMA: 0.5232455439947229
+	Google 300-dim word embeddings
+		IDENTITY: 3.5227142700413274E-5
+		NONE: 0.42612097120152553
+		MANY: 1.1963910328989837E-4
+		VERB: 0.0028254344364312743
+		QUOTE: 0.017025675587341985
+		SINGULAR: 0.46074909816578896
+		LEMMA: 0.9987198502311087
+	NER Tags
+		IDENTITY: 8.475426995502431E-4
+		NONE: 0.006468447554229654
+		MANY: 0.27384403826397075
+		VERB: 0.07933158046931915
+		QUOTE: 0.03014255708521006
+		SINGULAR: 0.0033458464031692913
+		LEMMA: 0.0011717735595065534
 ------
 GOLD: IDENTITY
 GUESS: SINGULAR
-CONTEXT: Iranian army arrests 1600 drug traffickers , kills 21 , and seizes [6] tons of drugs and weapons in large-scale operation along its borders with Afghanistan and Pakistan .
-	"Token string": 6
+CONTEXT: No one should be expected to practice [self] sufficiency or concern themselves with personal responsibility .
+	"Token string": self
 	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	Google 300-dim word embeddings
+		IDENTITY: 0.945708453665071
+		NONE: 0.9121645827015167
+		MANY: 4.443211521428388E-5
+		VERB: 0.013572921236451551
+		QUOTE: 1.7429304616397155E-4
+		SINGULAR: 0.9869618763812761
+		LEMMA: 0.0039550963722871
+	NER Tags
+		IDENTITY: 8.475426995502431E-4
+		NONE: 0.006468447554229654
+		MANY: 0.27384403826397075
+		VERB: 0.07933158046931915
+		QUOTE: 0.03014255708521006
+		SINGULAR: 0.0033458464031692913
+		LEMMA: 0.0011717735595065534
+------
+GOLD: LEMMA
+GUESS: NONE
+CONTEXT: In regions where the earthquake risk is high , warning the public and spreading disaster prevention awareness could greatly reduce casualties during [earthquakes] ; this is the very minimum duty that any responsible government should undertake .
+	"Token string": earthquakes
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.05225355723469669
+		NONE: 0.9444360468944429
+		MANY: 0.34462984699426213
+		VERB: 0.36963460625788264
+		QUOTE: 0.2866925622644818
+		SINGULAR: 0.11802560282438046
+		LEMMA: 0.9920340215636325
+	Google 300-dim word embeddings
+		IDENTITY: 0.041860175644699266
+		NONE: 0.9004837237646954
+		MANY: 5.637326893884393E-4
+		VERB: 0.003910185140064032
+		QUOTE: 0.0826662931943454
+		SINGULAR: 0.8062575398606473
+		LEMMA: 0.8720826775643284
+	NER Tags
+		IDENTITY: 8.475426995502431E-4
+		NONE: 0.006468447554229654
+		MANY: 0.27384403826397075
+		VERB: 0.07933158046931915
+		QUOTE: 0.03014255708521006
+		SINGULAR: 0.0033458464031692913
+		LEMMA: 0.0011717735595065534
+------
+GOLD: IDENTITY
+GUESS: VERB
+CONTEXT: Afghan officials conducted talks with Russian officials asking for assistance in stopping Afghanistan 's [large] illegal opium and heroin trade .
+	"Token string": large
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.0012929627714784958
+		NONE: 0.3973699794831393
+		MANY: 0.4540688649516159
+		VERB: 0.9999908464693346
+		QUOTE: 0.4875555306513301
+		SINGULAR: 0.33646571140516046
+		LEMMA: 0.47299281000215104
+	Google 300-dim word embeddings
+		IDENTITY: 0.9999989001423408
+		NONE: 0.05442283307285878
+		MANY: 1.6924906400573937E-6
+		VERB: 1.0623697274684265E-4
+		QUOTE: 7.927931077660693E-5
+		SINGULAR: 0.34000359347899606
+		LEMMA: 0.008714358956376381
+	NER Tags
+		IDENTITY: 8.475426995502431E-4
+		NONE: 0.006468447554229654
+		MANY: 0.27384403826397075
+		VERB: 0.07933158046931915
+		QUOTE: 0.03014255708521006
+		SINGULAR: 0.0033458464031692913
+		LEMMA: 0.0011717735595065534
+------
+GOLD: IDENTITY
+GUESS: MANY
+CONTEXT: Unfortunately over the [past] six years , the rule of the Taliban turned Afghanistan into a center of terrorism and drugs .
+	"Token string": past
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": DURATION
+SCORES:
+	Token string
+		IDENTITY: 0.23723585736293107
+		NONE: 0.007608969609473038
+		MANY: 0.9961746592429876
+		VERB: 0.14927731884616646
+		QUOTE: 0.3424144236279141
+		SINGULAR: 0.2021274434973974
+		LEMMA: 0.3262664910762835
+	Google 300-dim word embeddings
+		IDENTITY: 0.9950405277731735
+		NONE: 0.6757782974976616
+		MANY: 3.7393351758458447E-4
+		VERB: 3.3206108709873516E-4
+		QUOTE: 0.0012003210600196295
+		SINGULAR: 3.861104418730611E-5
+		LEMMA: 0.158789671579941
+	NER Tags
+		IDENTITY: 2.8664370300080205E-8
+		NONE: 1.9816219962128648E-4
+		MANY: 0.9999818765772581
+		VERB: 0.5004656515002843
+		QUOTE: 6.408783571177969E-6
+		SINGULAR: 0.9834753161128607
+		LEMMA: 2.1016150795130685E-4
+------
+GOLD: IDENTITY
+GUESS: MANY
+CONTEXT: In a separate dispatch IRNA stated that during the [past] 20 days in southern Iran 's Fars Province police had arrested 107 drug traffickers including 11 foreign nationals .
+	"Token string": past
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": DURATION
+SCORES:
+	Token string
+		IDENTITY: 0.23723585736293107
+		NONE: 0.007608969609473038
+		MANY: 0.9961746592429876
+		VERB: 0.14927731884616646
+		QUOTE: 0.3424144236279141
+		SINGULAR: 0.2021274434973974
+		LEMMA: 0.3262664910762835
+	Google 300-dim word embeddings
+		IDENTITY: 0.9950405277731735
+		NONE: 0.6757782974976616
+		MANY: 3.7393351758458447E-4
+		VERB: 3.3206108709873516E-4
+		QUOTE: 0.0012003210600196295
+		SINGULAR: 3.861104418730611E-5
+		LEMMA: 0.158789671579941
+	NER Tags
+		IDENTITY: 2.8664370300080205E-8
+		NONE: 1.9816219962128648E-4
+		MANY: 0.9999818765772581
+		VERB: 0.5004656515002843
+		QUOTE: 6.408783571177969E-6
+		SINGULAR: 0.9834753161128607
+		LEMMA: 2.1016150795130685E-4
+------
+GOLD: IDENTITY
+GUESS: SINGULAR
+CONTEXT: In a separate dispatch IRNA stated that during the past [20] days in southern Iran 's Fars Province police had arrested 107 drug traffickers including 11 foreign nationals .
+	"Token string": 20
+	"Google 300-dim word embeddings": [all 0s]
+	"NER Tags": DURATION
+SCORES:
+	Token string
+		IDENTITY: 0.7774107602134491
+		NONE: 0.020423334650735876
+		MANY: 1.5875592539862615E-8
+		VERB: 9.895497206730649E-8
+		QUOTE: 0.08371031241050318
+		SINGULAR: 8.248517686048734E-5
+		LEMMA: 0.10862327749002744
+	Google 300-dim word embeddings
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	NER Tags
+		IDENTITY: 2.8664370300080205E-8
+		NONE: 1.9816219962128648E-4
+		MANY: 0.9999818765772581
+		VERB: 0.5004656515002843
+		QUOTE: 6.408783571177969E-6
+		SINGULAR: 0.9834753161128607
+		LEMMA: 2.1016150795130685E-4
+------
+GOLD: IDENTITY
+GUESS: NONE
+CONTEXT: In a separate dispatch IRNA stated that during the past 20 days in southern Iran 's Fars Province police had arrested [107] drug traffickers including 11 foreign nationals .
+	"Token string": 107
+	"Google 300-dim word embeddings": [all 0s]
 	"NER Tags": NUMBER
 SCORES:
 	Token string
-		IDENTITY: 0.12855163
-		NONE: 0.12936616
-		MANY: 0.12603569
-		VERB: 0.1275923
-		QUOTE: 0.12603569
-		SINGULAR: 0.87396425
-		LEMMA: 0.1251261
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	Google 300-dim word embeddings
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	NER Tags
+		IDENTITY: 0.007201294770294454
+		NONE: 0.1204542885218136
+		MANY: 0.006344838220210773
+		VERB: 7.76503483082694E-8
+		QUOTE: 4.8742299938402296E-5
+		SINGULAR: 0.08657669406061415
+		LEMMA: 8.155227861588926E-10
 ------
-GOLD: IDENTITY
-GUESS: QUOTE
-CONTEXT: In addition , the breakdown in communication also brought a serious problem to the surface . In the past , Red Army regiments were able to maintain contact with [central] headquarters by relying on just one battered radio . On this occasion though , people had no way to deal with the communication failure .
-	"Token string": central
+GOLD: LEMMA
+GUESS: MANY
+CONTEXT: In a separate dispatch IRNA stated that during the past 20 days in southern Iran 's Fars Province police had arrested 107 drug traffickers including 11 foreign [nationals] .
+	"Token string": nationals
 	"Google 300-dim word embeddings": [...]
 	"NER Tags": O
 SCORES:
 	Token string
-		IDENTITY: 0.12855163
-		NONE: 0.12936616
-		MANY: 0.12603569
-		VERB: 0.1275923
-		QUOTE: 0.87396425
-		SINGULAR: 0.12603569
-		LEMMA: 0.1251261
-------
-GOLD: IDENTITY
-GUESS: NONE
-CONTEXT: But [it] was not totally without benefits , and I believe that its greatest benefit was that it served to strip off the false benevolence that composed the outer skin of the elitists , the politicians , the capitalists , and exposed once and for all the rotten cannibalistic core within .
-	"Token string": it
-	"Google 300-dim word embeddings": [...]
-	"NER Tags": O
-SCORES:
-	Token string
-		IDENTITY: 0.3030303
-		NONE: 0.4848485
-		MANY: 0.018410642
-		VERB: 0.12121229
-		QUOTE: 0.018410642
-		SINGULAR: 0.09090984
-		LEMMA: 0.018292597
-------
-GOLD: IDENTITY
-GUESS: NONE
-CONTEXT: But it was not totally without benefits , and I believe that its greatest benefit was that [it] served to strip off the false benevolence that composed the outer skin of the elitists , the politicians , the capitalists , and exposed once and for all the rotten cannibalistic core within .
-	"Token string": it
-	"Google 300-dim word embeddings": [...]
-	"NER Tags": O
-SCORES:
-	Token string
-		IDENTITY: 0.3030303
-		NONE: 0.4848485
-		MANY: 0.018410642
-		VERB: 0.12121229
-		QUOTE: 0.018410642
-		SINGULAR: 0.09090984
-		LEMMA: 0.018292597
-------
-GOLD: IDENTITY
-GUESS: NONE
-CONTEXT: But it was not totally without benefits , and I believe that its greatest benefit was that it served to strip off the false benevolence that composed the outer skin of the elitists , the politicians , the capitalists , and exposed once and for all the rotten cannibalistic core [within] .
-	"Token string": within
-	"Google 300-dim word embeddings": [...]
-	"NER Tags": O
-SCORES:
-	Token string
-		IDENTITY: 0.250163
-		NONE: 0.749825
-		MANY: 0.056999195
-		VERB: 0.05766983
-		QUOTE: 0.056999195
-		SINGULAR: 0.056999195
-		LEMMA: 0.056607436
-------
-GOLD: IDENTITY
-GUESS: VERB
-CONTEXT: A statement from the Russian Space Forces press services on 020126 called the [action] a direct violation of government decrees on defense facilities and stated that it could have led to the loss of a spacecraft costing hundreds of millions of rubles .
-	"Token string": action
-	"Google 300-dim word embeddings": [...]
-	"NER Tags": O
-SCORES:
-	Token string
-		IDENTITY: 0.3334517
-		NONE: 0.06867035
-		MANY: 0.06696149
-		VERB: 0.6665585
-		QUOTE: 0.06696149
-		SINGULAR: 0.06696149
-		LEMMA: 0.066495165
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	Google 300-dim word embeddings
+		IDENTITY: 0.1506810529994025
+		NONE: 0.051496897599056714
+		MANY: 0.9191345173865537
+		VERB: 0.001523743924723552
+		QUOTE: 0.04564246477776625
+		SINGULAR: 0.015453617567383603
+		LEMMA: 0.9976569916610899
+	NER Tags
+		IDENTITY: 8.475426995502431E-4
+		NONE: 0.006468447554229654
+		MANY: 0.27384403826397075
+		VERB: 0.07933158046931915
+		QUOTE: 0.03014255708521006
+		SINGULAR: 0.0033458464031692913
+		LEMMA: 0.0011717735595065534
 ------
 GOLD: IDENTITY
 GUESS: MANY
-CONTEXT: I headed straight for the center of activities , but in actual fact traffic was being controlled as [early] as 4 o'clock , and they had already started limiting the crowds entering the sports center .
-	"Token string": early
+CONTEXT: Leader of Afghanistan 's interim government Hamid Karzai said the fight against poppy harvesting and the [lucrative] trafficking of opium and heroin will be a top priority .
+	"Token string": lucrative
 	"Google 300-dim word embeddings": [...]
 	"NER Tags": O
 SCORES:
 	Token string
-		IDENTITY: 0.12855163
-		NONE: 0.12936616
-		MANY: 0.87396425
-		VERB: 0.1275923
-		QUOTE: 0.12603569
-		SINGULAR: 0.12603569
-		LEMMA: 0.1251261
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	Google 300-dim word embeddings
+		IDENTITY: 0.9941295208721183
+		NONE: 0.02623861788322687
+		MANY: 0.5082717098434637
+		VERB: 0.012025116623882096
+		QUOTE: 0.0023704945078430358
+		SINGULAR: 0.01905650737739003
+		LEMMA: 0.19120720020515
+	NER Tags
+		IDENTITY: 8.475426995502431E-4
+		NONE: 0.006468447554229654
+		MANY: 0.27384403826397075
+		VERB: 0.07933158046931915
+		QUOTE: 0.03014255708521006
+		SINGULAR: 0.0033458464031692913
+		LEMMA: 0.0011717735595065534
 ------
-GOLD: IDENTITY
-GUESS: NONE
-CONTEXT: I think Romney wins big today and obviously stays [in] .
-	"Token string": in
+GOLD: VERB
+GUESS: IDENTITY
+CONTEXT: Some specialize in dealing with [kidnapping] and hostage-taking scenarios .
+	"Token string": kidnapping
 	"Google 300-dim word embeddings": [...]
 	"NER Tags": O
 SCORES:
 	Token string
-		IDENTITY: 0.024222782
-		NONE: 0.9518071
-		MANY: 0.00801726
-		VERB: 0.018687641
-		QUOTE: 0.010471507
-		SINGULAR: 0.00801726
-		LEMMA: 0.007967171
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	Google 300-dim word embeddings
+		IDENTITY: 0.9993485185814086
+		NONE: 6.527060433158266E-4
+		MANY: 3.017161938963136E-4
+		VERB: 0.7677816756964047
+		QUOTE: 0.20441385530173345
+		SINGULAR: 0.009065415434687835
+		LEMMA: 0.19021659832397855
+	NER Tags
+		IDENTITY: 8.475426995502431E-4
+		NONE: 0.006468447554229654
+		MANY: 0.27384403826397075
+		VERB: 0.07933158046931915
+		QUOTE: 0.03014255708521006
+		SINGULAR: 0.0033458464031692913
+		LEMMA: 0.0011717735595065534
 ------
-GOLD: IDENTITY
-GUESS: NONE
-CONTEXT: Democrats get [it] , minorities get it , white republican jurisdictions do n't .
-	"Token string": it
-	"Google 300-dim word embeddings": [...]
-	"NER Tags": O
-SCORES:
-	Token string
-		IDENTITY: 0.3030303
-		NONE: 0.4848485
-		MANY: 0.018410642
-		VERB: 0.12121229
-		QUOTE: 0.018410642
-		SINGULAR: 0.09090984
-		LEMMA: 0.018292597
-------
-GOLD: IDENTITY
-GUESS: NONE
-CONTEXT: Democrats get it , minorities get [it] , white republican jurisdictions do n't .
-	"Token string": it
-	"Google 300-dim word embeddings": [...]
-	"NER Tags": O
-SCORES:
-	Token string
-		IDENTITY: 0.3030303
-		NONE: 0.4848485
-		MANY: 0.018410642
-		VERB: 0.12121229
-		QUOTE: 0.018410642
-		SINGULAR: 0.09090984
-		LEMMA: 0.018292597
-------
-GOLD: IDENTITY
-GUESS: VERB
-CONTEXT: Anyone who suffers a loss as have those who lost everything over the weekend will not be made whole , and whatever [claim] they receive will not come soon or easy .
-	"Token string": claim
-	"Google 300-dim word embeddings": [...]
-	"NER Tags": O
-SCORES:
-	Token string
-		IDENTITY: 0.12855163
-		NONE: 0.12936616
-		MANY: 0.12603569
-		VERB: 0.8724077
-		QUOTE: 0.12603569
-		SINGULAR: 0.12603569
-		LEMMA: 0.1251261
-------
-GOLD: IDENTITY
-GUESS: NONE
-CONTEXT: He 's a nonfactor at this point and only [in] out of spite .
-	"Token string": in
-	"Google 300-dim word embeddings": [...]
-	"NER Tags": O
-SCORES:
-	Token string
-		IDENTITY: 0.024222782
-		NONE: 0.9518071
-		MANY: 0.00801726
-		VERB: 0.018687641
-		QUOTE: 0.010471507
-		SINGULAR: 0.00801726
-		LEMMA: 0.007967171
-------
-GOLD: IDENTITY
-GUESS: VERB
-CONTEXT: Gilbert stated that Tajikistan 's positive and [responsible] approach to the crisis in Afghanistan has significantly improved the country 's image internationally .
-	"Token string": responsible
-	"Google 300-dim word embeddings": [...]
-	"NER Tags": O
-SCORES:
-	Token string
-		IDENTITY: 0.12855163
-		NONE: 0.12936616
-		MANY: 0.12603569
-		VERB: 0.8724077
-		QUOTE: 0.12603569
-		SINGULAR: 0.12603569
-		LEMMA: 0.1251261
-------
-GOLD: IDENTITY
-GUESS: VERB
-CONTEXT: Drug [trafficking] from Afghanistan resumed during a brief hiatus in the anti-terrorist operation .
-	"Token string": trafficking
-	"Google 300-dim word embeddings": [...]
-	"NER Tags": O
-SCORES:
-	Token string
-		IDENTITY: 0.14336509
-		NONE: 0.04293401
-		MANY: 0.04190428
-		VERB: 0.85666627
-		QUOTE: 0.04190428
-		SINGULAR: 0.04190428
-		LEMMA: 0.041623037
-------
-GOLD: IDENTITY
-GUESS: NONE
-CONTEXT: Drug trafficking from Afghanistan resumed [during] a brief hiatus in the anti-terrorist operation .
-	"Token string": during
-	"Google 300-dim word embeddings": [...]
-	"NER Tags": O
-SCORES:
-	Token string
-		IDENTITY: 0.250163
-		NONE: 0.749825
-		MANY: 0.056999195
-		VERB: 0.05766983
-		QUOTE: 0.056999195
-		SINGULAR: 0.056999195
-		LEMMA: 0.056607436
-------
-GOLD: IDENTITY
-GUESS: NONE
-CONTEXT: He is not lying to call [it] stimulus .
-	"Token string": it
-	"Google 300-dim word embeddings": [...]
-	"NER Tags": O
-SCORES:
-	Token string
-		IDENTITY: 0.3030303
-		NONE: 0.4848485
-		MANY: 0.018410642
-		VERB: 0.12121229
-		QUOTE: 0.018410642
-		SINGULAR: 0.09090984
-		LEMMA: 0.018292597
-------
-GOLD: IDENTITY
-GUESS: VERB
-CONTEXT: Leader of Afghanistan 's interim government Hamid Karzai said the fight against poppy harvesting and the lucrative trafficking of opium and heroin will be a top [priority] .
-	"Token string": priority
-	"Google 300-dim word embeddings": [...]
-	"NER Tags": O
-SCORES:
-	Token string
-		IDENTITY: 0.12855163
-		NONE: 0.12936616
-		MANY: 0.12603569
-		VERB: 0.8724077
-		QUOTE: 0.12603569
-		SINGULAR: 0.12603569
-		LEMMA: 0.1251261
-------
-GOLD: IDENTITY
+GOLD: VERB
 GUESS: MANY
-CONTEXT: Dassault is seeking its [first] foreign order for the Rafale .
-	"Token string": first
+CONTEXT: Canadian government 's warning of al-Qaeda 's capability to launch a cyberattack causes various industries to review their [preparedness] .
+	"Token string": preparedness
 	"Google 300-dim word embeddings": [...]
-	"NER Tags": ORDINAL
+	"NER Tags": O
 SCORES:
 	Token string
-		IDENTITY: 0.33333355
-		NONE: 0.04670519
-		MANY: 0.66666645
-		VERB: 0.046104815
-		QUOTE: 0.04557803
-		SINGULAR: 0.04557803
-		LEMMA: 0.045270216
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	Google 300-dim word embeddings
+		IDENTITY: 0.9683809389954834
+		NONE: 0.15313465232179083
+		MANY: 0.12896739348270456
+		VERB: 0.3057940964605162
+		QUOTE: 0.048473160341230184
+		SINGULAR: 0.009481889312764807
+		LEMMA: 0.09210091761166586
+	NER Tags
+		IDENTITY: 8.475426995502431E-4
+		NONE: 0.006468447554229654
+		MANY: 0.27384403826397075
+		VERB: 0.07933158046931915
+		QUOTE: 0.03014255708521006
+		SINGULAR: 0.0033458464031692913
+		LEMMA: 0.0011717735595065534
+------
+GOLD: QUOTE
+GUESS: VERB
+CONTEXT: A number of al-Qaeda militants including [Millennium] plot bomber Ahmed Ressam are known to have remained in Canada .
+	"Token string": Millennium
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": DURATION
+SCORES:
+	Token string
+		IDENTITY: 0.47183257031640585
+		NONE: 0.48506402213673133
+		MANY: 0.4738613821166327
+		VERB: 0.4855059203597924
+		QUOTE: 0.5751695127952816
+		SINGULAR: 0.48448445252848393
+		LEMMA: 0.48830233407856055
+	Google 300-dim word embeddings
+		IDENTITY: 0.09302996678897438
+		NONE: 0.2562872893678651
+		MANY: 1.0545609125739123E-8
+		VERB: 0.2934263465697971
+		QUOTE: 0.9980000530770915
+		SINGULAR: 0.004576840719725791
+		LEMMA: 0.0013138988771718718
+	NER Tags
+		IDENTITY: 2.8664370300080205E-8
+		NONE: 1.9816219962128648E-4
+		MANY: 0.9999818765772581
+		VERB: 0.5004656515002843
+		QUOTE: 6.408783571177969E-6
+		SINGULAR: 0.9834753161128607
+		LEMMA: 2.1016150795130685E-4
+------
+GOLD: LEMMA
+GUESS: MANY
+CONTEXT: The [activists] accuse the organizations of being culturally-biased and insulting .
+	"Token string": activists
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	Google 300-dim word embeddings
+		IDENTITY: 5.1981650454838784E-5
+		NONE: 0.004184512394190428
+		MANY: 0.9081843004794634
+		VERB: 9.341354833157878E-4
+		QUOTE: 2.6961873794325593E-4
+		SINGULAR: 0.00884292757389336
+		LEMMA: 0.9986604550427443
+	NER Tags
+		IDENTITY: 8.475426995502431E-4
+		NONE: 0.006468447554229654
+		MANY: 0.27384403826397075
+		VERB: 0.07933158046931915
+		QUOTE: 0.03014255708521006
+		SINGULAR: 0.0033458464031692913
+		LEMMA: 0.0011717735595065534
+------
+GOLD: MANY
+GUESS: IDENTITY
+CONTEXT: Another group said they will launch an association next [Monday] of around 100 dog meat restaurant owners in the Seoul region and hold a seminar to promote the dish .
+	"Token string": Monday
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": DATE
+SCORES:
+	Token string
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	Google 300-dim word embeddings
+		IDENTITY: 0.06891035392174984
+		NONE: 0.018295705608114186
+		MANY: 0.9988862554657995
+		VERB: 0.14605306017729058
+		QUOTE: 0.05426956031777966
+		SINGULAR: 0.26972803833181397
+		LEMMA: 3.110397973812325E-6
+	NER Tags
+		IDENTITY: 0.934115861426061
+		NONE: 0.2280083678584559
+		MANY: 3.7520075256170626E-5
+		VERB: 1.0634544821440499E-9
+		QUOTE: 2.191822287705437E-8
+		SINGULAR: 8.74484959805823E-5
+		LEMMA: 1.4495152324165091E-9
+------
+GOLD: QUOTE
+GUESS: IDENTITY
+CONTEXT: According to Taiwan 's '' Ministry of [Economy] '' statistics , the volume of trade between mainland and Taiwan last year was 20.9 billion US dollars .
+	"Token string": Economy
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	Google 300-dim word embeddings
+		IDENTITY: 0.9988949022336794
+		NONE: 0.0022611186819164754
+		MANY: 0.002503261584587216
+		VERB: 0.31636685339030035
+		QUOTE: 0.9103585441737315
+		SINGULAR: 0.048241297057030355
+		LEMMA: 0.001530631315225848
+	NER Tags
+		IDENTITY: 8.475426995502431E-4
+		NONE: 0.006468447554229654
+		MANY: 0.27384403826397075
+		VERB: 0.07933158046931915
+		QUOTE: 0.03014255708521006
+		SINGULAR: 0.0033458464031692913
+		LEMMA: 0.0011717735595065534
 ------
 GOLD: IDENTITY
 GUESS: NONE
-CONTEXT: The nationalist group was formed to campaign [against] Japan .
-	"Token string": against
+CONTEXT: A statement from the Russian Space Forces press services on 020126 called the action a [direct] violation of government decrees on defense facilities and stated that it could have led to the loss of a spacecraft costing hundreds of millions of rubles .
+	"Token string": direct
 	"Google 300-dim word embeddings": [...]
 	"NER Tags": O
 SCORES:
 	Token string
-		IDENTITY: 0.025740648
-		NONE: 0.888874
-		MANY: 0.025286013
-		VERB: 0.11112331
-		QUOTE: 0.025286013
-		SINGULAR: 0.025286013
-		LEMMA: 0.025121532
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	Google 300-dim word embeddings
+		IDENTITY: 0.988441027849516
+		NONE: 0.9206081756799478
+		MANY: 0.0017687341240424552
+		VERB: 0.04875180585551202
+		QUOTE: 3.7872450830405926E-4
+		SINGULAR: 0.709227794875037
+		LEMMA: 1.556470776025347E-4
+	NER Tags
+		IDENTITY: 8.475426995502431E-4
+		NONE: 0.006468447554229654
+		MANY: 0.27384403826397075
+		VERB: 0.07933158046931915
+		QUOTE: 0.03014255708521006
+		SINGULAR: 0.0033458464031692913
+		LEMMA: 0.0011717735595065534
 ------
 GOLD: IDENTITY
+GUESS: NONE
+CONTEXT: The number of investment projects dropped by [444] as compared with last year , but the value of investments rose by more than 130 million US dollars as compared with last year .
+	"Token string": 444
+	"Google 300-dim word embeddings": [all 0s]
+	"NER Tags": NUMBER
+SCORES:
+	Token string
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	Google 300-dim word embeddings
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	NER Tags
+		IDENTITY: 0.007201294770294454
+		NONE: 0.1204542885218136
+		MANY: 0.006344838220210773
+		VERB: 7.76503483082694E-8
+		QUOTE: 4.8742299938402296E-5
+		SINGULAR: 0.08657669406061415
+		LEMMA: 8.155227861588926E-10
+------
+GOLD: MANY
+GUESS: IDENTITY
+CONTEXT: A statement from the Russian Space Forces press services on 020126 called the action a direct violation of government decrees on defense facilities and stated that it could have led to the loss of a spacecraft costing [hundreds] of millions of rubles .
+	"Token string": hundreds
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	Google 300-dim word embeddings
+		IDENTITY: 0.9650545726228732
+		NONE: 0.023236174964495093
+		MANY: 0.0037890896572573326
+		VERB: 9.4404811190255E-6
+		QUOTE: 0.015031624712914261
+		SINGULAR: 0.3954785948653745
+		LEMMA: 0.765934846563919
+	NER Tags
+		IDENTITY: 8.475426995502431E-4
+		NONE: 0.006468447554229654
+		MANY: 0.27384403826397075
+		VERB: 0.07933158046931915
+		QUOTE: 0.03014255708521006
+		SINGULAR: 0.0033458464031692913
+		LEMMA: 0.0011717735595065534
+------
+GOLD: VERB
+GUESS: NONE
+CONTEXT: He needs to [conduct] a beer summit between Palin and NBC .
+	"Token string": conduct
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.35938701526075145
+		NONE: 0.9941071775494835
+		MANY: 0.4053946315313396
+		VERB: 0.002064086016051059
+		QUOTE: 0.46458738064319577
+		SINGULAR: 0.4802461270554395
+		LEMMA: 0.4768419609866327
+	Google 300-dim word embeddings
+		IDENTITY: 2.4111199970556593E-4
+		NONE: 0.4765560874403529
+		MANY: 2.8437077522153257E-6
+		VERB: 0.9998217827128649
+		QUOTE: 0.0010203445242075028
+		SINGULAR: 5.571745145415097E-4
+		LEMMA: 0.0011227185334657262
+	NER Tags
+		IDENTITY: 8.475426995502431E-4
+		NONE: 0.006468447554229654
+		MANY: 0.27384403826397075
+		VERB: 0.07933158046931915
+		QUOTE: 0.03014255708521006
+		SINGULAR: 0.0033458464031692913
+		LEMMA: 0.0011717735595065534
+------
+GOLD: NONE
+GUESS: SINGULAR
+CONTEXT: International ; Government [;] terrorism ; war and conflict ; dissent ; leader
+	"Token string": ;
+	"Google 300-dim word embeddings": [all 0s]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 2.244466339320307E-5
+		NONE: 0.993152722879069
+		MANY: 1.3339332191249665E-4
+		VERB: 0.2529573960713232
+		QUOTE: 0.017434087422911804
+		SINGULAR: 0.9964584161740963
+		LEMMA: 0.06556659803118361
+	Google 300-dim word embeddings
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	NER Tags
+		IDENTITY: 8.475426995502431E-4
+		NONE: 0.006468447554229654
+		MANY: 0.27384403826397075
+		VERB: 0.07933158046931915
+		QUOTE: 0.03014255708521006
+		SINGULAR: 0.0033458464031692913
+		LEMMA: 0.0011717735595065534
+------
+GOLD: NONE
+GUESS: SINGULAR
+CONTEXT: International ; Government ; terrorism [;] war and conflict ; dissent ; leader
+	"Token string": ;
+	"Google 300-dim word embeddings": [all 0s]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 2.244466339320307E-5
+		NONE: 0.993152722879069
+		MANY: 1.3339332191249665E-4
+		VERB: 0.2529573960713232
+		QUOTE: 0.017434087422911804
+		SINGULAR: 0.9964584161740963
+		LEMMA: 0.06556659803118361
+	Google 300-dim word embeddings
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	NER Tags
+		IDENTITY: 8.475426995502431E-4
+		NONE: 0.006468447554229654
+		MANY: 0.27384403826397075
+		VERB: 0.07933158046931915
+		QUOTE: 0.03014255708521006
+		SINGULAR: 0.0033458464031692913
+		LEMMA: 0.0011717735595065534
+------
+GOLD: NONE
+GUESS: SINGULAR
+CONTEXT: International ; Government ; terrorism ; war and conflict [;] dissent ; leader
+	"Token string": ;
+	"Google 300-dim word embeddings": [all 0s]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 2.244466339320307E-5
+		NONE: 0.993152722879069
+		MANY: 1.3339332191249665E-4
+		VERB: 0.2529573960713232
+		QUOTE: 0.017434087422911804
+		SINGULAR: 0.9964584161740963
+		LEMMA: 0.06556659803118361
+	Google 300-dim word embeddings
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	NER Tags
+		IDENTITY: 8.475426995502431E-4
+		NONE: 0.006468447554229654
+		MANY: 0.27384403826397075
+		VERB: 0.07933158046931915
+		QUOTE: 0.03014255708521006
+		SINGULAR: 0.0033458464031692913
+		LEMMA: 0.0011717735595065534
+------
+GOLD: NONE
+GUESS: SINGULAR
+CONTEXT: International ; Government ; terrorism ; war and conflict ; dissent [;] leader
+	"Token string": ;
+	"Google 300-dim word embeddings": [all 0s]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 2.244466339320307E-5
+		NONE: 0.993152722879069
+		MANY: 1.3339332191249665E-4
+		VERB: 0.2529573960713232
+		QUOTE: 0.017434087422911804
+		SINGULAR: 0.9964584161740963
+		LEMMA: 0.06556659803118361
+	Google 300-dim word embeddings
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	NER Tags
+		IDENTITY: 8.475426995502431E-4
+		NONE: 0.006468447554229654
+		MANY: 0.27384403826397075
+		VERB: 0.07933158046931915
+		QUOTE: 0.03014255708521006
+		SINGULAR: 0.0033458464031692913
+		LEMMA: 0.0011717735595065534
+------
+GOLD: VERB
+GUESS: LEMMA
+CONTEXT: The severe [actions] against militants and radicals came as Pervez Musharraf banned 5 Islamic groups .
+	"Token string": actions
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.4089450412039481
+		NONE: 0.051184167851731896
+		MANY: 0.33953366532066404
+		VERB: 0.8669625006762613
+		QUOTE: 0.4759289753251439
+		SINGULAR: 0.42107090846600737
+		LEMMA: 0.5740853174238217
+	Google 300-dim word embeddings
+		IDENTITY: 2.475575695145411E-7
+		NONE: 0.8329154570555659
+		MANY: 0.006749197215006259
+		VERB: 0.6404105627403854
+		QUOTE: 3.671769268361962E-5
+		SINGULAR: 0.023472056167559995
+		LEMMA: 0.9984275613259385
+	NER Tags
+		IDENTITY: 8.475426995502431E-4
+		NONE: 0.006468447554229654
+		MANY: 0.27384403826397075
+		VERB: 0.07933158046931915
+		QUOTE: 0.03014255708521006
+		SINGULAR: 0.0033458464031692913
+		LEMMA: 0.0011717735595065534
+------
+GOLD: NONE
+GUESS: VERB
+CONTEXT: The severe actions against militants and radicals [came] as Pervez Musharraf banned 5 Islamic groups .
+	"Token string": came
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.4338588378302344
+		NONE: 0.9693303166587104
+		MANY: 0.4794783979056289
+		VERB: 0.07059146570983021
+		QUOTE: 0.4943363700181343
+		SINGULAR: 0.48167454016870137
+		LEMMA: 0.4949060244999508
+	Google 300-dim word embeddings
+		IDENTITY: 2.9036868685152168E-8
+		NONE: 0.8291650162929405
+		MANY: 3.6568490391634815E-4
+		VERB: 0.9934929797794658
+		QUOTE: 3.356156732159723E-4
+		SINGULAR: 0.052059658457993874
+		LEMMA: 0.0013790983944233501
+	NER Tags
+		IDENTITY: 8.475426995502431E-4
+		NONE: 0.006468447554229654
+		MANY: 0.27384403826397075
+		VERB: 0.07933158046931915
+		QUOTE: 0.03014255708521006
+		SINGULAR: 0.0033458464031692913
+		LEMMA: 0.0011717735595065534
+------
+GOLD: QUOTE
 GUESS: MANY
-CONTEXT: Head of the Korean Football Association and a FIFA vice [president] Chung Mong-Joon said FIFA should not intervene in the eating habits of a sovereign nation .
-	"Token string": president
+CONTEXT: The Lashkar-e-Taiba and [Jaish-e-Mohammad] are still distributing their message through a range of publications and magazines easily available in Karachi .
+	"Token string": Jaish-e-Mohammad
+	"Google 300-dim word embeddings": [all 0s]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.4198175155437356
+		NONE: 0.4620983802275569
+		MANY: 0.40292322318192475
+		VERB: 0.45841650571743947
+		QUOTE: 0.5528830722315228
+		SINGULAR: 0.42422398368120307
+		LEMMA: 0.4400031875130604
+	Google 300-dim word embeddings
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	NER Tags
+		IDENTITY: 8.475426995502431E-4
+		NONE: 0.006468447554229654
+		MANY: 0.27384403826397075
+		VERB: 0.07933158046931915
+		QUOTE: 0.03014255708521006
+		SINGULAR: 0.0033458464031692913
+		LEMMA: 0.0011717735595065534
+------
+GOLD: IDENTITY
+GUESS: NONE
+CONTEXT: The project management system of the Three Gorges project will introduce scientific management methods and advanced computer technology of the MAI Corp. of Canada , which uses the project database management system as the core component in its control and management of the whole [process] of designing , planning , contracting , financing , goods and materials , equipment , construction and installation of each subproject of the Three Gorges project .
+	"Token string": process
 	"Google 300-dim word embeddings": [...]
 	"NER Tags": O
 SCORES:
 	Token string
-		IDENTITY: 0.12855163
-		NONE: 0.12936616
-		MANY: 0.87396425
-		VERB: 0.1275923
-		QUOTE: 0.12603569
-		SINGULAR: 0.12603569
-		LEMMA: 0.1251261
+		IDENTITY: 0.014838406533552069
+		NONE: 0.9978172137922732
+		MANY: 0.3497493362674924
+		VERB: 3.8125265136945393E-4
+		QUOTE: 0.48812069125068275
+		SINGULAR: 0.4300959640864218
+		LEMMA: 0.4424234228448927
+	Google 300-dim word embeddings
+		IDENTITY: 0.9999871879692304
+		NONE: 0.2513005693842118
+		MANY: 5.980917653614148E-6
+		VERB: 0.06282735451208184
+		QUOTE: 1.5184732838014487E-5
+		SINGULAR: 0.010205253025959702
+		LEMMA: 0.01194427647788032
+	NER Tags
+		IDENTITY: 8.475426995502431E-4
+		NONE: 0.006468447554229654
+		MANY: 0.27384403826397075
+		VERB: 0.07933158046931915
+		QUOTE: 0.03014255708521006
+		SINGULAR: 0.0033458464031692913
+		LEMMA: 0.0011717735595065534
+------
+GOLD: QUOTE
+GUESS: NONE
+CONTEXT: The headline in the Islam daily of [Al-Rashid] Trust on 020115 stated action extreme against extremism above an article stating that the Pakistani government should not domineer a large section of Pakistani society which supported the jihad against Indian rule in the divided Himalayan state of Kashmir .
+	"Token string": Al-Rashid
+	"Google 300-dim word embeddings": [all 0s]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.0553132029663479
+		NONE: 0.2607957254341375
+		MANY: 0.005789651557821463
+		VERB: 0.00267882411943139
+		QUOTE: 0.022005554854234766
+		SINGULAR: 0.21209610899157835
+		LEMMA: 0.270738515121735
+	Google 300-dim word embeddings
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	NER Tags
+		IDENTITY: 8.475426995502431E-4
+		NONE: 0.006468447554229654
+		MANY: 0.27384403826397075
+		VERB: 0.07933158046931915
+		QUOTE: 0.03014255708521006
+		SINGULAR: 0.0033458464031692913
+		LEMMA: 0.0011717735595065534
+------
+GOLD: QUOTE
+GUESS: VERB
+CONTEXT: The Great Olympic swindle was written by British journalist Andrew Jennings and published by Simon and [Schuster] .
+	"Token string": Schuster
+	"Google 300-dim word embeddings": [...]
+	"NER Tags": O
+SCORES:
+	Token string
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	Google 300-dim word embeddings
+		IDENTITY: 0.010710952194752895
+		NONE: 0.050694096559442965
+		MANY: 2.7523223821583955E-5
+		VERB: 0.9875233440512393
+		QUOTE: 0.9815244696031178
+		SINGULAR: 0.02916802396309806
+		LEMMA: 0.49183445593725206
+	NER Tags
+		IDENTITY: 8.475426995502431E-4
+		NONE: 0.006468447554229654
+		MANY: 0.27384403826397075
+		VERB: 0.07933158046931915
+		QUOTE: 0.03014255708521006
+		SINGULAR: 0.0033458464031692913
+		LEMMA: 0.0011717735595065534
 ------
 GOLD: IDENTITY
 GUESS: VERB
-CONTEXT: The number of investment projects dropped by 444 as compared with last year , but the [value] of investments rose by more than 130 million US dollars as compared with last year .
-	"Token string": value
+CONTEXT: The headline in the Islam daily of Al-Rashid Trust on 020115 stated action extreme against extremism above an article stating that the Pakistani government should not domineer a [large] section of Pakistani society which supported the jihad against Indian rule in the divided Himalayan state of Kashmir .
+	"Token string": large
 	"Google 300-dim word embeddings": [...]
 	"NER Tags": O
 SCORES:
 	Token string
-		IDENTITY: 0.058083277
-		NONE: 0.250175
-		MANY: 0.056999195
-		VERB: 0.7498503
-		QUOTE: 0.056999195
-		SINGULAR: 0.056999195
-		LEMMA: 0.056607436
+		IDENTITY: 0.0012929627714784958
+		NONE: 0.3973699794831393
+		MANY: 0.4540688649516159
+		VERB: 0.9999908464693346
+		QUOTE: 0.4875555306513301
+		SINGULAR: 0.33646571140516046
+		LEMMA: 0.47299281000215104
+	Google 300-dim word embeddings
+		IDENTITY: 0.9999989001423408
+		NONE: 0.05442283307285878
+		MANY: 1.6924906400573937E-6
+		VERB: 1.0623697274684265E-4
+		QUOTE: 7.927931077660693E-5
+		SINGULAR: 0.34000359347899606
+		LEMMA: 0.008714358956376381
+	NER Tags
+		IDENTITY: 8.475426995502431E-4
+		NONE: 0.006468447554229654
+		MANY: 0.27384403826397075
+		VERB: 0.07933158046931915
+		QUOTE: 0.03014255708521006
+		SINGULAR: 0.0033458464031692913
+		LEMMA: 0.0011717735595065534
 ------
-GOLD: IDENTITY
-GUESS: QUOTE
-CONTEXT: The project management system of the Three Gorges project will introduce scientific management methods and advanced [computer] technology of the MAI Corp. of Canada , which uses the project database management system as the core component in its control and management of the whole process of designing , planning , contracting , financing , goods and materials , equipment , construction and installation of each subproject of the Three Gorges project .
-	"Token string": computer
+GOLD: VERB
+GUESS: NONE
+CONTEXT: [Apart] from setting up joint venture enterprises , GE also invested more than 1 billion US dollars in China by means of airplane and container leasing .
+	"Token string": Apart
 	"Google 300-dim word embeddings": [...]
 	"NER Tags": O
 SCORES:
 	Token string
-		IDENTITY: 0.12855163
-		NONE: 0.12936616
-		MANY: 0.12603569
-		VERB: 0.1275923
-		QUOTE: 0.87396425
-		SINGULAR: 0.12603569
-		LEMMA: 0.1251261
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	Google 300-dim word embeddings
+		IDENTITY: 0.659983250953379
+		NONE: 0.7781767290740028
+		MANY: 5.390891600612807E-5
+		VERB: 0.16348207527902825
+		QUOTE: 0.00652975270189797
+		SINGULAR: 0.017476272781561424
+		LEMMA: 0.39791963306119615
+	NER Tags
+		IDENTITY: 8.475426995502431E-4
+		NONE: 0.006468447554229654
+		MANY: 0.27384403826397075
+		VERB: 0.07933158046931915
+		QUOTE: 0.03014255708521006
+		SINGULAR: 0.0033458464031692913
+		LEMMA: 0.0011717735595065534
 ------
-GOLD: IDENTITY
-GUESS: VERB
-CONTEXT: The Lashkar-e-Taiba and Jaish-e-Mohammad are still distributing their message through a [range] of publications and magazines easily available in Karachi .
-	"Token string": range
+GOLD: NONE
+GUESS: IDENTITY
+CONTEXT: Apart from setting [up] joint venture enterprises , GE also invested more than 1 billion US dollars in China by means of airplane and container leasing .
+	"Token string": up
 	"Google 300-dim word embeddings": [...]
 	"NER Tags": O
 SCORES:
 	Token string
-		IDENTITY: 0.12855163
-		NONE: 0.12936616
-		MANY: 0.12603569
-		VERB: 0.8724077
-		QUOTE: 0.12603569
-		SINGULAR: 0.12603569
-		LEMMA: 0.1251261
+		IDENTITY: 0.06525476576575344
+		NONE: 0.9955868079286386
+		MANY: 0.4400300882221438
+		VERB: 0.41443687050790695
+		QUOTE: 0.48703988689184646
+		SINGULAR: 0.4517490831390552
+		LEMMA: 0.48491869288614187
+	Google 300-dim word embeddings
+		IDENTITY: 0.9999408710190383
+		NONE: 0.4045468097785313
+		MANY: 2.7674384606914865E-5
+		VERB: 2.9473896959604355E-4
+		QUOTE: 5.990593720312816E-5
+		SINGULAR: 0.00989828685779637
+		LEMMA: 0.0032747951330120892
+	NER Tags
+		IDENTITY: 8.475426995502431E-4
+		NONE: 0.006468447554229654
+		MANY: 0.27384403826397075
+		VERB: 0.07933158046931915
+		QUOTE: 0.03014255708521006
+		SINGULAR: 0.0033458464031692913
+		LEMMA: 0.0011717735595065534
 ------
-GOLD: IDENTITY
-GUESS: VERB
-CONTEXT: The headline in the Islam daily of Al-Rashid Trust on 020115 stated [action] extreme against extremism above an article stating that the Pakistani government should not domineer a large section of Pakistani society which supported the jihad against Indian rule in the divided Himalayan state of Kashmir .
-	"Token string": action
+GOLD: SINGULAR
+GUESS: IDENTITY
+CONTEXT: Why is it [literally] 100 % impossible for the liberal mind to understand that just because you do n't want government involved in something does n't mean you 're against it ?
+	"Token string": literally
 	"Google 300-dim word embeddings": [...]
 	"NER Tags": O
 SCORES:
 	Token string
-		IDENTITY: 0.3334517
-		NONE: 0.06867035
-		MANY: 0.06696149
-		VERB: 0.6665585
-		QUOTE: 0.06696149
-		SINGULAR: 0.06696149
-		LEMMA: 0.066495165
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	Google 300-dim word embeddings
+		IDENTITY: 0.9999743880360001
+		NONE: 0.28701474490151135
+		MANY: 1.7636800000717525E-5
+		VERB: 1.0865811248226875E-5
+		QUOTE: 5.37295443645351E-5
+		SINGULAR: 0.998014868519086
+		LEMMA: 0.21013367763220853
+	NER Tags
+		IDENTITY: 8.475426995502431E-4
+		NONE: 0.006468447554229654
+		MANY: 0.27384403826397075
+		VERB: 0.07933158046931915
+		QUOTE: 0.03014255708521006
+		SINGULAR: 0.0033458464031692913
+		LEMMA: 0.0011717735595065534
 ------
-GOLD: IDENTITY
-GUESS: VERB
-CONTEXT: The headline in the Islam daily of Al-Rashid Trust on 020115 stated action extreme against extremism [above] an article stating that the Pakistani government should not domineer a large section of Pakistani society which supported the jihad against Indian rule in the divided Himalayan state of Kashmir .
-	"Token string": above
+GOLD: VERB
+GUESS: IDENTITY
+CONTEXT: Why is it literally 100 [%] impossible for the liberal mind to understand that just because you do n't want government involved in something does n't mean you 're against it ?
+	"Token string": %
 	"Google 300-dim word embeddings": [...]
-	"NER Tags": O
+	"NER Tags": PERCENT
 SCORES:
 	Token string
-		IDENTITY: 0.12855163
-		NONE: 0.12936616
-		MANY: 0.12603569
-		VERB: 0.8724077
-		QUOTE: 0.12603569
-		SINGULAR: 0.12603569
-		LEMMA: 0.1251261
+		IDENTITY: 0.5
+		NONE: 0.5
+		MANY: 0.5
+		VERB: 0.5
+		QUOTE: 0.5
+		SINGULAR: 0.5
+		LEMMA: 0.5
+	Google 300-dim word embeddings
+		IDENTITY: 0.03984364151882434
+		NONE: 0.17250730174248058
+		MANY: 0.07174953890211136
+		VERB: 0.4737854055707277
+		QUOTE: 1.7429333498369757E-5
+		SINGULAR: 0.3608279188452798
+		LEMMA: 0.006870298754542858
+	NER Tags
+		IDENTITY: 0.9998227160781711
+		NONE: 0.0023430118085351185
+		MANY: 1.3551594228182963E-7
+		VERB: 0.0036918323783002
+		QUOTE: 2.5688650814213412E-6
+		SINGULAR: 1.8402152199292105E-7
+		LEMMA: 4.650757381893305E-5

@@ -1,1 +1,1 @@
-Added feature: Token string
+Added feature: NER Tags

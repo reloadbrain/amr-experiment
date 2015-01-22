@@ -1,11 +1,13 @@
 package com.github.keenon.amr;
 
 import com.github.keenon.minimalml.engine.Engine;
+import com.github.keenon.minimalml.engine.MultiThreadedEngine;
 import com.github.keenon.minimalml.engine.SingleThreadedEngine;
 import com.github.keenon.minimalml.experiment.Experiment;
 import com.github.keenon.minimalml.kernels.Kernel;
 import com.github.keenon.minimalml.kernels.LinearKernel;
 import com.github.keenon.minimalml.optimizer.Optimizer;
+import com.github.keenon.minimalml.optimizer.QNOptimizer;
 import com.github.keenon.minimalml.optimizer.SGDOptimizer;
 import com.github.keenon.minimalml.reader.DataReader;
 import com.github.keenon.minimalml.reader.LabeledSequenceDataReader;
@@ -22,7 +24,7 @@ import java.io.IOException;
  * Implements an experiment class
  */
 public class AMRPOSExperiment extends Experiment {
-    TransferMap<String, float[]> embeddings;
+    TransferMap<String, double[]> embeddings;
 
     public AMRPOSExperiment() {
         try {
@@ -39,7 +41,7 @@ public class AMRPOSExperiment extends Experiment {
 
     @Override
     public Engine getEngine() {
-        return new SingleThreadedEngine();
+        return new MultiThreadedEngine();
     }
 
     @Override
@@ -60,7 +62,7 @@ public class AMRPOSExperiment extends Experiment {
     @Override
     public Optimizer getOptimizer() {
         // regularization
-        return new SGDOptimizer(0.0f);
+        return new QNOptimizer();
     }
 
     @Override
@@ -100,21 +102,21 @@ public class AMRPOSExperiment extends Experiment {
                         },
 
                         // Word embedding
-                        new LabeledSequenceDataReader.LabeledSequenceFloatArrayFeature() {
+                        new LabeledSequenceDataReader.LabeledSequenceDoubleArrayFeature() {
                             @Override
                             public String getName() {
                                 return "Google 300-dim word embeddings";
                             }
 
                             @Override
-                            public float[] featurize(int offset,
+                            public double[] featurize(int offset,
                                                      String[] tokens,
                                                      String[] labels,
                                                      Annotation annotation) {
-                                float[] f = embeddings.getBlocking(tokens[offset]);
+                                double[] f = embeddings.getBlocking(tokens[offset]);
                                 if (f == null) {
                                     // empty, inner product will be 0, won't bias decisions at all
-                                    return new float[300];
+                                    return new double[300];
                                 }
                                 return f;
                             }

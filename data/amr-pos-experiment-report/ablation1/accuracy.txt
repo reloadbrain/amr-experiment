@@ -1,4 +1,4 @@
-Test Accuracy: 0.768384192096048
-Change in accuracy from adding last feature: 0.5717858929464732
-Train Accuracy: 0.9141975308641975
-Change in accuracy from adding last feature: 0.7150617283950618
+Test Accuracy: 0.7668834417208604
+Change in accuracy from adding last feature: 0.5702851425712856
+Train Accuracy: 0.9135802469135802
+Change in accuracy from adding last feature: 0.7144444444444444
