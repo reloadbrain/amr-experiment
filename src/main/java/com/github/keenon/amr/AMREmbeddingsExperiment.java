@@ -13,6 +13,7 @@ import com.github.keenon.minimalml.reader.DataReader;
 import com.github.keenon.minimalml.reader.LabeledSequenceDataReader;
 import com.github.keenon.minimalml.utils.TransferMap;
 import com.github.keenon.minimalml.word2vec.Word2VecLoader;
+import edu.stanford.nlp.ling.CoreAnnotations;
 import edu.stanford.nlp.pipeline.Annotation;
 
 import java.io.IOException;
@@ -100,6 +101,22 @@ public class AMREmbeddingsExperiment extends Experiment {
                             }
                         },
 
+                        // Lemma feature
+                        new LabeledSequenceDataReader.LabeledSequenceStringFeature() {
+                            @Override
+                            public String getName() {
+                                return "Lemma";
+                            }
+
+                            @Override
+                            public String featurize(int offset,
+                                                    String[] tokens,
+                                                    String[] labels,
+                                                    Annotation annotation) {
+                                return annotation.get(CoreAnnotations.TokensAnnotation.class).get(offset).get(CoreAnnotations.LemmaAnnotation.class).toLowerCase();
+                            }
+                        },
+
                         // Word embedding
                         new LabeledSequenceDataReader.LabeledSequenceDoubleArrayFeature() {
                             @Override
@@ -132,6 +149,16 @@ public class AMREmbeddingsExperiment extends Experiment {
     @Override
     public AblativeAnalysisType getAblativeAnalysisType() {
         return AblativeAnalysisType.ALL_FEATURES;
+    }
+
+    @Override
+    public int[] getTrainIDWatchList() {
+        return new int[0];
+    }
+
+    @Override
+    public int[] getTestIDWatchList() {
+        return new int[0];
     }
 
     public static void main(String[] args) throws Exception {

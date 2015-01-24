@@ -1,3 +1,0 @@
-Active features:
-	Google 300-dim word embeddings
-	Token string

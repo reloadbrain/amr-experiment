@@ -2,13 +2,11 @@ package com.github.keenon.amr;
 
 import com.github.keenon.minimalml.engine.Engine;
 import com.github.keenon.minimalml.engine.MultiThreadedEngine;
-import com.github.keenon.minimalml.engine.SingleThreadedEngine;
 import com.github.keenon.minimalml.experiment.Experiment;
 import com.github.keenon.minimalml.kernels.Kernel;
 import com.github.keenon.minimalml.kernels.LinearKernel;
 import com.github.keenon.minimalml.optimizer.Optimizer;
 import com.github.keenon.minimalml.optimizer.QNOptimizer;
-import com.github.keenon.minimalml.optimizer.SGDOptimizer;
 import com.github.keenon.minimalml.reader.DataReader;
 import com.github.keenon.minimalml.reader.LabeledSequenceDataReader;
 import com.github.keenon.minimalml.utils.TransferMap;
@@ -23,10 +21,10 @@ import java.io.IOException;
  *
  * Implements an experiment class
  */
-public class AMRNERExperiment extends Experiment {
+public class AMRThoseBusToursExperiment extends Experiment {
     TransferMap<String, double[]> embeddings;
 
-    public AMRNERExperiment() {
+    public AMRThoseBusToursExperiment() {
         try {
             embeddings = Word2VecLoader.loadDataAsynch("data/google-300-trimmed.ser.gz");
         } catch (IOException e) {
@@ -41,7 +39,7 @@ public class AMRNERExperiment extends Experiment {
 
     @Override
     public Engine getEngine() {
-        return new SingleThreadedEngine();
+        return new MultiThreadedEngine();
     }
 
     @Override
@@ -56,7 +54,7 @@ public class AMRNERExperiment extends Experiment {
 
     @Override
     public String getReportPath() {
-        return "data/amr-ner-experiment-report";
+        return "data/amr-embeddings-experiment-report";
     }
 
     @Override
@@ -122,20 +120,26 @@ public class AMRNERExperiment extends Experiment {
                             }
                         },
 
-                        // NER Tags
+                        // Lexicalized determiners
                         new LabeledSequenceDataReader.LabeledSequenceStringFeature() {
                             @Override
                             public String getName() {
-                                return "NER Tags";
+                                return "Lexicalized determiner";
                             }
 
                             @Override
                             public String featurize(int offset,
-                                                     String[] tokens,
-                                                     String[] labels,
-                                                     Annotation annotation) {
-                                return annotation.get(CoreAnnotations.TokensAnnotation.class).get(offset)
-                                        .get(CoreAnnotations.NamedEntityTagAnnotation.class);
+                                                      String[] tokens,
+                                                      String[] labels,
+                                                      Annotation annotation) {
+                                String pos = annotation.get(CoreAnnotations.TokensAnnotation.class).get(offset)
+                                        .get(CoreAnnotations.PartOfSpeechAnnotation.class);
+                                if (pos.equals("DT")) {
+                                    return tokens[offset];
+                                }
+                                else {
+                                    return "not-determiner";
+                                }
                             }
                         }
                 }
@@ -163,7 +167,7 @@ public class AMRNERExperiment extends Experiment {
     }
 
     public static void main(String[] args) throws Exception {
-        Experiment exp = new AMRNERExperiment();
+        Experiment exp = new AMRThoseBusToursExperiment();
         exp.run();
     }
 }

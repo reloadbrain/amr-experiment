@@ -1,1 +1,0 @@
-Added feature: Google 300-dim word embeddings

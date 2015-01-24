@@ -152,6 +152,16 @@ public class AMRPOSExperiment extends Experiment {
         return AblativeAnalysisType.ALL_FEATURES;
     }
 
+    @Override
+    public int[] getTrainIDWatchList() {
+        return new int[0];
+    }
+
+    @Override
+    public int[] getTestIDWatchList() {
+        return new int[0];
+    }
+
     public static void main(String[] args) throws Exception {
         Experiment exp = new AMRPOSExperiment();
         exp.run();

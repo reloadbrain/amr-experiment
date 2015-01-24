@@ -1,4 +1,0 @@
-Active features:
-	Google 300-dim word embeddings
-	POS Tags
-	Token string

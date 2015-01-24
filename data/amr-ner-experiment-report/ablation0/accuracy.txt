@@ -1,4 +1,0 @@
-Test Accuracy: 0.848424212106053
-Change in accuracy over randomly guessing: 0.7055670692489102
-Train Accuracy: 0.9128395061728395
-Change in accuracy over randomly guessing: 0.7699823633156966
